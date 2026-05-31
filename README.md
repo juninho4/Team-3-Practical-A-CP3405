@@ -4,7 +4,7 @@
 
 | Role | Responsibility | Student Name |
 |---|---|---|
-| R1 Product Owner | Sprint goal and acceptance criteria |  |
+| R1 Product Owner | Sprint goal and acceptance criteria | Juninho Chandra |
 | R2 Scrum Master | Standups, blockers, retrospective |  |
 | R3 Almanac Agent | Seasonal and historical market analysis | Jiawei |
 | R4 Macro / News Agent | FedWatch, rates, oil, news, economic calendar | Chadric |
