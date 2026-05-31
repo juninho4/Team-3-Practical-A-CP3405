@@ -40,7 +40,7 @@ This suggests that normal May performance is not extremely bearish, but in midte
 
 ## Late May / Memorial Day Pattern
 
-The late-May period is also affected by Memorial Day seasonal behaviour. The Almanac notes that Memorial Day week has recently been weaker, with the Dow down 17 of the last 29 years.
+The late-May period is also affected by Memorial Day seasonal behaviour. The Almanac notes that Memorial Day week has produced negative Dow performance in 17 of the last 29 years, suggesting a weaker recent seasonal tendency.
 
 This supports a cautious view for the transition from May into June. It also suggests that low-volume holiday trading may make the market less reliable as a signal.
 
@@ -48,7 +48,7 @@ This supports a cautious view for the transition from May into June. It also sug
 
 ## June Seasonal Background
 
-June has a weaker midterm-year pattern than May.
+Historical Almanac statistics show June has weaker average returns than May during midterm election years.
 
 June statistics from the Almanac:
 
@@ -87,7 +87,7 @@ The Almanac sector seasonality table shows both positive and negative sector ten
 - Computer Technology has a positive seasonal window from mid-April to mid-July.
 - Utilities also have a positive seasonal window from mid-March to early October.
 
-These signals may support NASDAQ or large-cap technology if market conditions remain risk-on.
+These signals may support NASDAQ or large-cap technology if market conditions remain risk-on; this seasonal strength partially offsets the broader bearish June seasonality signal.
 
 ### Negative / Weak Seasonal Areas
 
