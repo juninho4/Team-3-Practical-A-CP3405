@@ -10,7 +10,7 @@ FED & RATES (CME FedWatch + Treasury.gov):
 COMMODITIES & DOLLAR (Finviz Futures 1W):
  · WTI Crude Oil: [90.34], weekly change: [+3.35%], direction: [rising]
  · Gold: [4534.90], weekly change: [-1.23%], direction: [rising]
- · DXY (Dollar): [-0.34%], direction: [weakening]
+ · DXY (Dollar): [+0.09%], direction: [weakening]
  · [Cross-asset implication: oil rising + yields rising = stagflation risk. Oil falling = inflation relief.]
 
 WEEK-AHEAD CALENDAR (TradingEconomics):
