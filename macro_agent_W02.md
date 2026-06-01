@@ -29,7 +29,7 @@ CONFIRMED NEWS EVENTS (Reuters / AP):
 
  · [Confirmed facts only. No rumours. No social media. If you cannot cite Reuters or AP, leave it out.]
 
-MACRO BIAS: [Dovish]
+MACRO BIAS: [Hawkish]
 PRIMARY DRIVER THIS WEEK: [Potential restarting of war in the middle east]
 CONFIDENCE: [Medium] — [Peace talks could go either way, terms may be favourable for both parties]
 INVALIDATION: [Peace talks are settled upon for the war in Iran]
