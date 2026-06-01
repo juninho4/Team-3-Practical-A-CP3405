@@ -4,12 +4,12 @@ FED & RATES (CME FedWatch + Treasury.gov):
  · Current Fed rate: [3.50–3.75%]
  · Next FOMC date: [17 Jun 2026]. Hold probability: [99.6%]. Cut probability: [0.4%]. Direction vs last week: [unchanged]
  · 2-year yield: [3.98%]   10-year yield: [4.45%]   30-year yield: [4.99%]
- · Yield curve: [normal]. 10-year direction this week: [rising / falling / flat]
+ · Yield curve: [normal]. 10-year direction this week: [flat]
  · [Implication: rising 10-year = headwind for growth stocks / falling 10-year = relief for REITs and tech]
 
 COMMODITIES & DOLLAR (Finviz Futures 1W):
- · WTI Crude Oil: [close price], weekly change: [-9.57%%], direction: [falling]
- · Gold: [close price], weekly change: [+0.81%], direction: [rising]
+ · WTI Crude Oil: [90.34], weekly change: [+3.35%], direction: [rising]
+ · Gold: [4534.90], weekly change: [-1.23%], direction: [rising]
  · DXY (Dollar): [-0.34%], direction: [weakening]
  · [Cross-asset implication: oil rising + yields rising = stagflation risk. Oil falling = inflation relief.]
 
