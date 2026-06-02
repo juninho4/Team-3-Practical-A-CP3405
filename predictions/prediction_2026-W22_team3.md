@@ -1,16 +1,21 @@
 R7 Human Score Analyst Evaluation
+
 1. Macro / News Weight: +1 (Slightly Bullish)
 •	Reasoning: The immediate macro environment is leaning positive due to falling oil prices and a dropping VIX (risk-on indicators). 
 However, the looming shadow of the upcoming CPI data and geopolitical tensions in Iran prevents a maximum bullish score.
+
 2. Technical Structure: +2 (Strongly Bullish)
 •	Reasoning: Stripping away all AI narrative and looking purely at the charts, the technicals are undeniably strong. 
 SPX, NDX, and IWM are all holding above their short-term 8 EMA and medium-term 21 EMA. Technology (NDX) is showing clear leadership and upward momentum.
+
 3. Almanac Seasonal Weight: -1 (Slightly Bearish)
 •	Reasoning: Historical data indicates that early June during a midterm election year is typically a period of seasonal weakness and choppy trading. 
 This historical headwind acts as a clear drag on upward momentum.
+
 4. AI Model Agreement Quality: +1 (Good Agreement with Logical Divergence)
 •	Reasoning: The four models demonstrated a high quality of consensus regarding the factual data (strong technicals vs. weak seasonality). 
 Their slight divergence (from Neutral to Cautiously Bullish) is not a hallucination, but a valid difference in how to weight the geopolitical risks against the price action.
+
 5. Wild Card / Human Observation : -1 (AI Underestimated Liquidity & Volume Risks)
 •	Reasoning: The AI models heavily rely on the 8 and 21 EMAs acting as strong support, but they failed to factor in market mechanics—specifically, trading volume. 
 Early June typically suffers from the "summer doldrums" (lower liquidity). 
