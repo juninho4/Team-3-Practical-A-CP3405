@@ -67,10 +67,10 @@ The team will:
 
 | Action | Owner | Status |
 |---|---|---|
-| Confirm all roles earlier next sprint | R1 / R2 | To do |
-| Start work before Sunday | Whole team | To do |
+| Confirm all character tasks before the next sprint begins | R1 / R2 | To do |
+| Start the task as soon as possible | Whole team | To do |
 | Use Discord for earlier progress updates | Whole team | To do |
-| Check that all final files are `.md` where required | R9 | To do |
+| Verify that all submitted documents are in the correct format | R9 | To do |
 | Make sure Scrum files are completed during the sprint | R2 | To do |
 | Help blocked members earlier | Whole team | To do |
 
