@@ -11,7 +11,7 @@ This historical headwind acts as a clear drag on upward momentum.
 4. AI Model Agreement Quality: +1 (Good Agreement with Logical Divergence)
 •	Reasoning: The four models demonstrated a high quality of consensus regarding the factual data (strong technicals vs. weak seasonality). 
 Their slight divergence (from Neutral to Cautiously Bullish) is not a hallucination, but a valid difference in how to weight the geopolitical risks against the price action.
-5. Wild Card / Human Observation 🌟: -1 (AI Underestimated Liquidity & Volume Risks)
+5. Wild Card / Human Observation : -1 (AI Underestimated Liquidity & Volume Risks)
 •	Reasoning: The AI models heavily rely on the 8 and 21 EMAs acting as strong support, but they failed to factor in market mechanics—specifically, trading volume. 
 Early June typically suffers from the "summer doldrums" (lower liquidity). 
 When you combine low trading volume with the market holding its breath before a major CPI release, those moving averages become incredibly fragile. 
