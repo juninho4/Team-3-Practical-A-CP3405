@@ -21,13 +21,14 @@ Their slight divergence (from Neutral to Cautiously Bullish) is not a hallucinat
 Early June typically suffers from the "summer doldrums" (lower liquidity). 
 When you combine low trading volume with the market holding its breath before a major CPI release, those moving averages become incredibly fragile. 
 A sudden geopolitical headline (e.g., from Iran) in a low-liquidity environment can trigger an algorithmic flush that easily breaks the EMA supports the AIs are trusting.
-Final Score & Team Prediction
-•	Human Score Total: (+1) + (+2) + (-1) + (+1) + (-1) = +2
-•	Final Prediction Category: Neutral-Bullish (+2 to +5 points)
-R7 Human Rationale & Refinement (The "Override" Paragraph)
-While the human team's final score of +2 aligns with the AI consensus of "Cautiously Bullish," we are formally overriding the AI's reasoning regarding downside risk. 
-The AI models view the current market structure as strong but threatened by news events. 
-As human analysts, we assess the current technical structure as fundamentally fragile due to an incoming liquidity drain. 
-Because institutional volume tends to dry up in early June ahead of major CPI prints, the strong moving averages (8 & 21 EMA) that the AIs are aggressively buying into can be easily sliced through by a single geopolitical shock. 
-Therefore, our team adopts the "Neutral-Bullish" stance but mandates a much tighter stop-loss strategy than the AI suggests, as we recognize the high probability of a low-volume technical trap.
+
+6. Final Score & Team Prediction
+  •	Human Score Total: (+1) + (+2) + (-1) + (+1) + (-1) = +2
+  •	Final Prediction Category: Neutral-Bullish (+2 to +5 points)
+  R7 Human Rationale & Refinement (The "Override" Paragraph)
+  While the human team's final score of +2 aligns with the AI consensus of "Cautiously Bullish," we are formally overriding the AI's reasoning regarding downside risk. 
+  The AI models view the current market structure as strong but threatened by news events. 
+  As human analysts, we assess the current technical structure as fundamentally fragile due to an incoming liquidity drain. 
+  Because institutional volume tends to dry up in early June ahead of major CPI prints, the strong moving averages (8 & 21 EMA) that the AIs are aggressively buying into can be easily sliced through by a single geopolitical shock. 
+  Therefore, our team adopts the "Neutral-Bullish" stance but mandates a much tighter stop-loss strategy than the AI suggests, as we recognize the high probability of a low-volume technical trap.
 
