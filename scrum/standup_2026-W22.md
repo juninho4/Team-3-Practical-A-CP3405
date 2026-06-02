@@ -22,13 +22,16 @@ Because this was our first week working with the market intelligence role struct
 
 Each role worked on their assigned task:
 
+- R1 prepared the sprint goal and acceptance criteria for the week.
+- R2 recorded team communication, blockers, standup notes, and retrospective.
 - R3 completed the Almanac Agent analysis.
 - R4 completed the Macro / News Agent analysis.
 - R5 completed the Technical Agent analysis and chart screenshots.
 - R6 collected the LLM responses and created the comparison.
+- R7 completed the Human Score and final team prediction.
 - R8 collected market evidence and sector screenshots.
-- R9 helped organise the GitHub repository and commits.
-- R10 prepared the learning and review documents.
+- R9 helped organise the GitHub repository, commits, folders, and release tag.
+- R10 prepared the learning, calibration, and review documents.
 
 ---
 
@@ -55,4 +58,4 @@ There were also some file organisation issues, including files being uploaded in
 
 By the end of the sprint, most role-based work was completed, but Scrum process documentation needed improvement.
 
-The team needs to start earlier next week and organise roles more clearly at the beginning of the sprint.
+Next week, the team needs to start work earlier and clarify their assigned tasks at the beginning of the sprint. If any issues arise, they should communicate more frequently to ensure tasks are completed sooner.
