@@ -5,7 +5,7 @@
 | Role | Responsibility | Student Name |
 |---|---|---|
 | R1 Product Owner | Sprint goal and acceptance criteria | Juninho Chandra |
-| R2 Scrum Master | Standups, blockers, retrospective |Zhang Jiale  |
+| R2 Scrum Master | Standups, blockers, retrospective |Zhang Jiale, Lin Yan |
 | R3 Almanac Agent | Seasonal and historical market analysis | Jiawei |
 | R4 Macro / News Agent | FedWatch, rates, oil, news, economic calendar | Chadric |
 | R5 Technical Agent | SPX, NDX, IWM charts and technical analysis | Han-Wei lin |
