@@ -23,12 +23,13 @@ KEY EARNINGS THIS WEEK (Earnings Whispers):
  · []
 
 CONFIRMED NEWS EVENTS (Reuters / AP):
- · []
- . []
+ · [US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up] - Source: Reuters — 7 June — Market implication: [Ceasefire broken, oil shipping lanes through the Strait of Hormuz remain closed]
+
+ . [Airline chiefs grapple with fuel shock, fare test at Rio summit] - Source: Reuters — 6 June — Market implication: [Fuel prices continue to rise, global supply chains remain more costly]
 
  · [Confirmed facts only. No rumours. No social media. If you cannot cite Reuters or AP, leave it out.]
 
-MACRO BIAS: []
-PRIMARY DRIVER THIS WEEK: []
-CONFIDENCE: [] — []
-INVALIDATION: []
+MACRO BIAS: [Hawkish]
+PRIMARY DRIVER THIS WEEK: [Oil shipping lanes remain clsoed, continuation of war in the Middle East]
+CONFIDENCE: [High] — [The breakdown of peace talks makes oil shipping lanes unlikely to repopen]
+INVALIDATION: [Another ceasfire has been called]
