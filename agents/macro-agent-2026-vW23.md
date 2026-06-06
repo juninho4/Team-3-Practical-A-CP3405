@@ -14,7 +14,9 @@ COMMODITIES & DOLLAR (Finviz Futures 1W):
  · [Cross-asset implication: oil falling + yields falling = deflation. Oil falling = inflation relief.]
 
 WEEK-AHEAD CALENDAR (TradingEconomics):
- · []
+ · [Thursday, 11 June]: [ECB Interest Rate Decision] - Expected: [2.25%], Previous:[2%] IMPORTANCE: [High]
+ . [Wednesday, 10 June]: [CN Inflation Rate YoY] - Exoected: [1.4%], Previous: [1.2%] IMPORTANCE: [HIGH]
+ 
  · [Repeat for each major event this week. Maximum 5 entries. Rank by market-moving potential.]
 
 KEY EARNINGS THIS WEEK (Earnings Whispers):
