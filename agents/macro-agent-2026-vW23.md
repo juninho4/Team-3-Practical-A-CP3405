@@ -8,10 +8,10 @@ FED & RATES (CME FedWatch + Treasury.gov):
  · [Implication: rising 10-year = headwind for growth stocks / falling 10-year = relief for REITs and tech]
 
 COMMODITIES & DOLLAR (Finviz Futures 1W):
- · WTI Crude Oil: [], weekly change: [%], direction: []
- · Gold: [close price], weekly change: [%], direction: []
- · DXY (Dollar): [%], direction: []
- · [Cross-asset implication: oil rising + yields rising = stagflation risk. Oil falling = inflation relief.]
+ · WTI Crude Oil: [90.25], weekly change: [-2.69%], direction: [falling]
+ · Gold: [4353.90], weekly change: [-3.10%], direction: [falling]
+ · DXY (Dollar): [+0.67%], direction: [strengthening]
+ · [Cross-asset implication: oil falling + yields falling = deflation. Oil falling = inflation relief.]
 
 WEEK-AHEAD CALENDAR (TradingEconomics):
  · []
