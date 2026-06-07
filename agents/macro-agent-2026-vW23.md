@@ -1,8 +1,8 @@
 Week of 1 June 2026
 
 FED & RATES (CME FedWatch + Treasury.gov):
- · Current Fed rate: [Unknown, page on CME tool is not working]
- · Next FOMC date: [17 Jun 2026]. Hold probability: [%]. Cut probability: [%]. Direction vs last week: []
+ · Current Fed rate: [3.50–3.75%]
+ · Next FOMC date: [17 Jun 2026]. Hold probability: [95.4%]. Cut probability: [4.6%]. Direction vs last week: [Unchanged]
  · 2-year yield: [4.17%]   10-year yield: [4.55%]   30-year yield: [5.01%]
  · Yield curve: [normal]. 10-year direction this week: [rising]
  · [Implication: rising 10-year = headwind for growth stocks / falling 10-year = relief for REITs and tech]
@@ -21,15 +21,18 @@ WEEK-AHEAD CALENDAR (TradingEconomics):
 
 KEY EARNINGS THIS WEEK (Earnings Whispers):
  · []
+ . [2–3 entries maximum. Only include earnings that could move an entire sector.]
 
 CONFIRMED NEWS EVENTS (Reuters / AP):
  · [US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up] - Source: Reuters — 7 June — Market implication: [Ceasefire broken, oil shipping lanes through the Strait of Hormuz remain closed]
 
- . [Airline chiefs grapple with fuel shock, fare test at Rio summit] - Source: Reuters — 6 June — Market implication: [Fuel prices continue to rise, global supply chains remain more costly]
+ . [Chip slump erases $1.3 trillion in stock market value] - Source: Reuters — 6 June — Market implication: [Semiconductor sectors hit hard this week, expectations were higher when Broadcom release thier earnings]
+
+ . [How can retail investors buy shares in SpaceX's IPO?] Source: Reuters - 7 June - Market Implication
 
  · [Confirmed facts only. No rumours. No social media. If you cannot cite Reuters or AP, leave it out.]
 
-MACRO BIAS: [Hawkish]
-PRIMARY DRIVER THIS WEEK: [Oil shipping lanes remain clsoed, continuation of war in the Middle East]
-CONFIDENCE: [High] — [The breakdown of peace talks makes oil shipping lanes unlikely to repopen]
-INVALIDATION: [Another ceasfire has been called]
+MACRO BIAS: [Dovish]
+PRIMARY DRIVER THIS WEEK: [Public listing of SpaceX as an IPO]
+CONFIDENCE: [Medium] — [How well SpaceX does as a publicly listed company will affect the AI market and thus the tech industry as a whole]
+INVALIDATION: [SpaceX is pulled from being publicly listed]
