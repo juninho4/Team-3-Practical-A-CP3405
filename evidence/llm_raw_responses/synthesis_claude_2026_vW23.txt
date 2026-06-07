@@ -1,0 +1,26 @@
+1. Weekly Regime: Bearish
+
+2. Confidence Score: High — All three independent analytical inputs (Almanac, Macro/News, Technical) converge on a bearish verdict without a single source producing a bullish signal for the current week. The alignment across seasonal, fundamental, and price-based frameworks raises conviction meaningfully above a split-signal environment.
+
+3. Key Supporting Evidence:
+- The macroeconomic backdrop is hostile to risk assets: the 10-year yield is rising toward 4.55%, the dollar is strengthening (DXY +0.67% weekly, +1.21% on Finviz), and active geopolitical risk from US strikes on Iranian sites is pressuring oil shipping lanes through the Strait of Hormuz, introducing a supply-chain and energy-cost tail risk that is not yet resolved.
+- Technical price action is broadly deteriorating across all three major indexes. SPX fell approximately 2.6%, NDX fell approximately 4.5% to 4.8%, and IWM fell approximately 3.1% to 3.6% in a single week. VIX rose nearly 9%, confirming that institutional fear is rising, and Bitcoin collapsed 17.4%, removing any credible speculative risk-on signal from the market.
+- Seasonal almanac evidence adds a meaningful bearish overlay: midterm election year Junes have averaged a -2.1% return for the S&P 500, the week following Triple Witching has been down 28 of the last 34 years, and June marks the end of the NASDAQ Best Eight Months seasonal cycle, all of which historically create headwinds for equity performance through the month.
+
+4. Key Contradictions:
+- The long-run June average for the S&P 500 is slightly positive at +0.2%, with 42 up years versus 33 down years in the historical record, meaning the broad base rate for the month is not structurally bearish, only bearish when filtered through the midterm election year lens.
+- Oil prices are falling week-over-week (WTI -2.69%), which could in isolation reduce near-term inflation pressure and provide a mild input-cost tailwind for consumer and industrial sectors. However, this is offset by the geopolitical source of the oil risk and the counteracting pressure of a stronger dollar and rising long yields.
+
+5. Invalidation Conditions:
+The bearish view would materially weaken under any combination of the following: SPX reclaims and closes above 7,500 on meaningful volume, suggesting buyers have returned at scale; NDX recovers above 29,500, reversing the breakdown in technology momentum; a credible ceasefire or de-escalation agreement between the US and Iran removes the geopolitical risk premium from oil and shipping lanes; the 10-year yield reverses and moves sustainably back below 4.30%, reducing the pressure on growth and rate-sensitive equities; or the ECB decision on 11 June delivers an unexpectedly dovish signal that lifts global risk sentiment.
+
+6. Predicted % move (for the coming week, directional estimate only, not a forecast):
+- SPX (S&P 500): -1.0% to -2.5% — continued downside pressure with support test likely near 7,300; a break below 7,300 would accelerate the decline.
+- NDX (Nasdaq 100): -1.5% to -3.5% — weakest index, technology sector remains the most vulnerable given rising yields and the end of the Best Eight Months cycle; support near 28,500 is the near-term line to watch.
+- IWM (Russell 2000): -1.0% to -2.5% — small caps are rate-sensitive and risk-appetite-dependent; the 2,800 support level is critical and a break would open further downside.
+
+7. Plain-English brief:
+Every angle of analysis — historical seasonal patterns, the global economic backdrop, and the raw price action in markets — is pointing in the same direction this week: down. A combination of rising interest rates, a strengthening dollar, active military conflict in the Middle East affecting oil supply routes, and heavy selling in technology stocks has created a difficult environment for equity investors. Unless something significant changes, such as a ceasefire, a drop in yields, or major indexes recovering to their resistance levels, the path of least resistance for the stock market over the coming week remains lower.
+
+8. Disclaimer:
+This report is produced entirely for informational and analytical purposes and does not constitute financial advice, investment advice, or a recommendation to buy, sell, or hold any security or asset class. Market conditions can change rapidly and without warning, and past seasonal patterns or historical returns are not guarantees of future results. All forecasts and directional estimates carry inherent uncertainty. You should consult a qualified financial professional before making any investment decisions based on material of this kind.

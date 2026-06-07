@@ -1,0 +1,29 @@
+1. Weekly Regime: Bearish
+
+2. Confidence Score: High — almanac, macro/news, and technical evidence all point in the same bearish direction, with NDX and risk assets showing clear weakness.
+
+3. Key Supporting Evidence:
+
+* Almanac evidence is bearish: June in midterm election years averages -2.1%, and late-June seasonal factors are weak.
+* Macro/news evidence is bearish: rising 10-year yield, stronger dollar, and Middle East war risk pressure risk assets.
+* Technical evidence is bearish: SPX, NDX, and IWM all fell sharply, VIX rose, Bitcoin dropped, and defensive sectors outperformed.
+
+4. Key Contradictions:
+
+* Long-term June S&P 500 average return is slightly positive at +0.2%.
+* Defensive sectors are holding up, and oil is falling, which may reduce some inflation pressure.
+
+5. Invalidation Conditions:
+   This bearish view would weaken if SPX reclaims 7,500, NDX reclaims 29,500, and IWM reclaims 2,900. It would also weaken if a Middle East ceasefire reduces geopolitical risk, yields fall, and the dollar stops strengthening.
+
+6. Predicted % move:
+
+* SPX (S&P 500): [-1.5% to -3.0%] — bearish downside range
+* NDX (Nasdaq 100): [-2.0% to -4.0%] — bearish downside range
+* IWM (Russell 2000): [-1.5% to -3.5%] — bearish downside range
+
+7. Plain-English brief:
+   The market looks weak this week because technology stocks, small caps, and speculative assets are all under pressure. Rising yields, a stronger dollar, and Middle East risk make investors more cautious, so the safer view is bearish unless indexes recover key levels.
+
+8. Disclaimer:
+   This is not financial advice. It is a market-regime synthesis based only on the evidence provided.

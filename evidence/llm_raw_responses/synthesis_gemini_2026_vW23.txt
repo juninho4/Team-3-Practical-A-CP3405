@@ -1,0 +1,31 @@
+1. Weekly Regime: Bearish
+2. Confidence Score: High
+Concurrence across all three analytical horizons (Almanac, Macro, and Technical) provides a unified bearish outlook. Technical momentum has broken down significantly, macro drivers indicate persistent structural headwinds (yields/dollar/geopolitics), and historical seasonality provides strong statistical backing for further weakness.
+3. Key Supporting Evidence:
+
+* **Severe Technical Breakdown & Sector Rotation:** All three major indices recorded significant losses last week, led by a sharp -4.53% drop in the Nasdaq 100 (NDX), alongside an +8.99% spike in the VIX indicating rising market fear. Money flows showed defensive rotation into Utilities, Real Estate, and Consumer Defensives rather than a broad market panic, confirming risk-off behavior.
+* **Aggressive Macro Headwinds:** Long-term interest rates are moving higher (10-year yield rising to 4.55%) and the US Dollar Index is strengthening (+1.21% via cross-asset performance), creating dual valuation headwinds for growth, tech, and multinational corporate earnings.
+* **Geopolitical Escalation:** Fresh military friction in the Middle East (US strikes on Iranian sites following drone launches) has broken down previous ceasefire hopes, maintaining a high risk premium on global supply chains and critical maritime shipping lanes.
+* **Negative Historical Seasonal Regularities:** June during a midterm election year historically averages a heavy loss of -2.1% for the S&P 500, compounded by the historical structural weakness seen during the week following Triple Witching options expiration (down 28 of the last 34 years).
+
+4. Key Contradictions:
+
+* Long-term baseline data shows June with a positive historical average return of +0.2% across all years, carrying 42 positive years versus 33 negative years.
+* WTI Crude Oil prices softened (-2.69% down to 90.25), which could ultimately provide slight relief to broader headline inflationary metrics despite ongoing shipping lane conflicts.
+
+5. Invalidation Conditions:
+The bearish outlook would be invalidated if:
+
+* **Technical Levels Reclaimed:** The S&P 500 (SPX) reclaims and holds above resistance at 7,500, or the Nasdaq 100 (NDX) moves back above 29,500.
+* **Geopolitical Resolution:** A renewed, stable ceasefire agreement is achieved in the Middle East, effectively eliminating the current geopolitical risk premium attached to global transport and energy channels.
+
+6. Predicted % move:
+
+* SPX (S&P 500): [-1.0% to -2.5%] — Bearish continuation testing the key 7,300 psychological support zone.
+* NDX (Nasdaq 100): [-1.5% to -3.5%] — Bearish underperformance as growth valuations remain pressured by rising yields, heading toward 28,500.
+* IWM (Russell 2000): [-1.0% to -2.0%] — Bearish downward pressure probing key structural support near 2,800.
+
+7. Plain-English brief:
+The stock market is currently navigating a highly unfavorable combination of rising interest rates, worsening conflict in the Middle East, and historically weak seasonal trends that typically plague midterm election years. Investors are aggressively scaling back risk, pulling money out of major technology shares and sheltering in defensive areas like utility and household staple companies. Expect stock prices to continue facing downward pressure unless global political tensions settle down or interest rates begin to retreat.
+8. Disclaimer:
+This report is for informational and educational purposes only. It does not constitute financial, investment, legal, or trading advice. Please consult with a licensed financial professional before making any investment decisions.
