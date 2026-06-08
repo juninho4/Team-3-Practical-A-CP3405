@@ -18,6 +18,16 @@ This sprint only had a short working window of about two days. Compared with the
 
 ---
 
+### Scrum Observation
+
+Although communication was active through Discord, not all members provided regular progress updates.
+
+The team had a clearer role structure than Week 22, but role accountability remained a challenge. Some tasks were only identified as delayed near the end of the sprint, which reduced the available time for quality checking and coordination.
+
+This highlighted the importance of early progress reporting and proactive communication during short sprint cycles.
+
+---
+
 ## Standup 1
 
 ### Date
