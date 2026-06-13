@@ -6,7 +6,7 @@ R5 Technical Agent
 
 ## Focus Week
 
-Week of 1 June 2026
+Week of 1 June 2026 for W23
 
 ## Purpose
 
