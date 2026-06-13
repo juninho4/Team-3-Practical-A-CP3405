@@ -11,16 +11,16 @@ My role is **R5 Technical Agent**, so my responsibility is to analyse:
 - IWM / Russell 2000
 - Minimum 3 S&P 500 sectors
 
-The analysis focuses on chart trend, moving average condition, support, resistance, and technical bias.
+The analysis focuses on chart trend, EMA20 condition, support, resistance, and technical bias.
 
 ---
 
 ## Assets Covered
 
-| Market / Sector | ETF Used | Full Name |
+| Market / Sector | Ticker Used | Full Name |
 |---|---|---|
 | SPX / S&P 500 | SPY | SPDR S&P 500 ETF Trust |
-| NDX / Nasdaq 100 | QQQ | Invesco QQQ Trust Series 1 |
+| NDX / Nasdaq 100 | NDX | Nasdaq 100 Index |
 | IWM / Russell 2000 | IWM | iShares Russell 2000 ETF |
 | Technology Sector | XLK | Technology Select Sector SPDR Fund |
 | Financial Sector | XLF | Financial Select Sector SPDR Fund |
@@ -35,30 +35,30 @@ The analysis focuses on chart trend, moving average condition, support, resistan
 | Item | Analysis |
 |---|---|
 | Current Chart Condition | Price is near the recent high and moving sideways after an uptrend. |
-| Moving Average | Price is slightly above the 20-day moving average. |
+| EMA20 Condition | Price is slightly above EMA20. |
 | Support | Around 10.20 to 10.30. |
 | Resistance | Around 10.50 to 10.60. |
 | Technical Bias | Slightly bullish / neutral bullish. |
 
 ### Comment
 
-SPY is still in a short-term upward structure because the price remains above the 20-day moving average. However, the recent candles show consolidation near resistance, so the market may need a breakout before stronger bullish momentum continues.
+SPY is still in a short-term upward structure because the price remains above EMA20. However, the recent candles show consolidation near resistance, so the market may need a breakout before stronger bullish momentum continues.
 
 ---
 
-## 2. QQQ / Nasdaq 100
+## 2. NDX / Nasdaq 100
 
 | Item | Analysis |
 |---|---|
 | Current Chart Condition | Strong uptrend from April to June, with a recent pullback and recovery. |
-| Moving Average | Price is above the 20-day moving average. |
-| Support | Around 700 to 710. |
-| Resistance | Around 735 to 745. |
+| EMA20 Condition | Price is slightly above EMA20. |
+| Support | Around 28,500 to 29,000. |
+| Resistance | Around 30,000 to 30,500. |
 | Technical Bias | Bullish, but volatile. |
 
 ### Comment
 
-QQQ shows one of the strongest technical setups. The price is above the moving average and the trend is still upward. However, the recent sharp pullback shows higher volatility, so the bullish bias depends on price holding above support.
+NDX shows one of the strongest technical setups. The price is still near the upper area of the chart and remains close to EMA20 after a sharp pullback. The recent recovery is positive, but volatility is higher, so the bullish bias depends on price staying above the support area.
 
 ---
 
@@ -67,14 +67,14 @@ QQQ shows one of the strongest technical setups. The price is above the moving a
 | Item | Analysis |
 |---|---|
 | Current Chart Condition | Clear upward trend with higher highs and higher lows. |
-| Moving Average | Price is above the 20-day moving average. |
+| EMA20 Condition | Price is above EMA20. |
 | Support | Around 285 to 286. |
 | Resistance | Around 294 to 296. |
 | Technical Bias | Bullish. |
 
 ### Comment
 
-IWM is showing a positive trend. The chart has recovered from the recent pullback and remains above the moving average. If price breaks above the recent high, the bullish trend will become stronger.
+IWM is showing a positive trend. The chart has recovered from the recent pullback and remains above EMA20. If price breaks above the recent high, the bullish trend will become stronger.
 
 ---
 
@@ -83,14 +83,14 @@ IWM is showing a positive trend. The chart has recovered from the recent pullbac
 | Item | Analysis |
 |---|---|
 | Current Chart Condition | Strong rally from April to June, followed by a short pullback. |
-| Moving Average | Price is above the 20-day moving average. |
+| EMA20 Condition | Price is above EMA20. |
 | Support | Around 180 to 182. |
 | Resistance | Around 195 to 200. |
 | Technical Bias | Bullish. |
 
 ### Comment
 
-XLK is one of the strongest sector charts. The technology sector remains above the moving average and still has strong upward momentum. The main risk is that price is close to the recent resistance area.
+XLK is one of the strongest sector charts. The technology sector remains above EMA20 and still has strong upward momentum. The main risk is that price is close to the recent resistance area.
 
 ---
 
@@ -99,14 +99,14 @@ XLK is one of the strongest sector charts. The technology sector remains above t
 | Item | Analysis |
 |---|---|
 | Current Chart Condition | Recovering after a weaker period earlier in the chart. |
-| Moving Average | Price is above the 20-day moving average. |
+| EMA20 Condition | Price is above EMA20. |
 | Support | Around 51.80 to 52.00. |
 | Resistance | Around 54.50 to 55.00. |
 | Technical Bias | Neutral bullish. |
 
 ### Comment
 
-XLF has improved after its previous downtrend. The price has moved back above the moving average, which is a positive signal. However, the chart is not as strong as QQQ, IWM, or XLK because it still needs to break previous resistance.
+XLF has improved after its previous downtrend. The price has moved back above EMA20, which is a positive signal. However, the chart is not as strong as NDX, IWM, or XLK because it still needs to break previous resistance.
 
 ---
 
@@ -115,14 +115,14 @@ XLF has improved after its previous downtrend. The price has moved back above th
 | Item | Analysis |
 |---|---|
 | Current Chart Condition | Recovery after a downtrend from March to May. |
-| Moving Average | Price is above the 20-day moving average. |
+| EMA20 Condition | Price is above EMA20. |
 | Support | Around 149 to 150. |
 | Resistance | Around 155 to 156. |
 | Technical Bias | Neutral bullish / recovery bias. |
 
 ### Comment
 
-XLV is recovering after a weaker period. The price has moved above the moving average, which is a positive sign. However, the chart still needs to break above the 155 to 156 resistance area before it becomes clearly bullish.
+XLV is recovering after a weaker period. The price has moved above EMA20, which is a positive sign. However, the chart still needs to break above the 155 to 156 resistance area before it becomes clearly bullish.
 
 ---
 
@@ -131,7 +131,7 @@ XLV is recovering after a weaker period. The price has moved above the moving av
 | Asset | Technical Bias | Strength |
 |---|---|---|
 | SPY | Slightly bullish / neutral bullish | Medium |
-| QQQ | Bullish | Strong |
+| NDX | Bullish, but volatile | Strong |
 | IWM | Bullish | Strong |
 | XLK | Bullish | Strong |
 | XLF | Neutral bullish | Medium |
@@ -139,9 +139,9 @@ XLV is recovering after a weaker period. The price has moved above the moving av
 
 ## Final Summary
 
-Most of the selected ETFs are showing positive technical conditions. QQQ, IWM, and XLK have the strongest bullish structures because they are trading above their 20-day moving averages and remain in clear upward trends.
+Most of the selected markets and ETFs are showing positive technical conditions. NDX, IWM, and XLK have the strongest bullish structures because they are trading above or near EMA20 and remain in clear upward trends.
 
-SPY is still positive but currently consolidating near resistance. XLF and XLV are improving, but they are not as strong as QQQ and XLK.
+SPY is still positive but currently consolidating near resistance. XLF and XLV are improving, but they are not as strong as NDX and XLK.
 
 Overall, the W24 technical bias is:
 
@@ -154,10 +154,10 @@ Overall, the W24 technical bias is:
 The analysis is based on the uploaded ProRealTime chart screenshots for:
 
 - SPY
-- QQQ
+- NDX
 - IWM
 - XLK
 - XLF
 - XLV
 
-Each chart uses daily candles and a 20-day moving average.
+Each chart uses daily candles and EMA20.
