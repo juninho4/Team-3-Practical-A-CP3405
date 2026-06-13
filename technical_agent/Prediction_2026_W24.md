@@ -205,3 +205,72 @@ Automating the data fetch makes the weekly analysis more consistent and reduces 
 ## Output
 
 The script saves one CSV file for each ETF inside the `data` folder. Each CSV includes daily price data and EMA20, EMA50, and EMA200 values.
+
+
+
+
+---
+
+# W23 Delta Report
+
+## Purpose
+
+This section compares the Week 23 R5 technical prediction with the actual Week 24 market movement.
+
+In Week 23, the R5 technical bias was bearish because SPX, NDX, and IWM all declined, VIX increased, and the market showed a risk-off structure.
+
+For Week 24, the new chart evidence shows that the market recovered. SPY, NDX, IWM, XLK, XLF, and XLV are mostly trading above EMA20, which means the short-term technical condition improved.
+
+---
+
+## Week 23 Prediction vs Week 24 Actual Result
+
+| Market | W3 / Week 23 Bias | Week 24 Actual Movement | Direction Correct? | Comment |
+|---|---|---|---|---|
+| SPY / S&P 500 | Bearish | Price recovered and stayed near recent highs | No | The bearish view was not correct because SPY moved back above EMA20 and remained in a positive short-term structure. |
+| NDX / Nasdaq 100 | Bearish | Price recovered after the pullback and moved back near the 29,500 area | No | The bearish view was not correct because NDX bounced strongly and moved back above or near EMA20. However, volatility was still high. |
+| IWM / Russell 2000 | Bearish | Price recovered and stayed above EMA20 | No | The bearish view was not correct because IWM continued its upward structure and remained above EMA20. |
+
+---
+
+## Error Size
+
+| Market | Expected Direction | Actual Direction | Error Size |
+|---|---|---|---|
+| SPY / S&P 500 | Down | Up / recovery | Medium |
+| NDX / Nasdaq 100 | Down | Up / recovery | Large |
+| IWM / Russell 2000 | Down | Up / recovery | Medium |
+
+---
+
+## Delta Analysis
+
+The Week 23 prediction expected the market to remain bearish. However, Week 24 price action showed a recovery across the main indexes. SPY moved back near its recent high area, NDX recovered after a sharp pullback, and IWM remained above EMA20.
+
+The biggest error was in NDX because the Week 23 report identified Nasdaq as the weakest index, but the Week 24 chart showed a strong recovery. SPY and IWM also improved, meaning the overall market condition changed from bearish to neutral bullish / bullish.
+
+---
+
+## What Changed From W3 to W4
+
+| Evidence | Week 23 | Week 24 |
+|---|---|---|
+| SPY | Bearish pullback | Recovered and near resistance |
+| NDX | Weakest index | Strong recovery but still volatile |
+| IWM | Bearish small-cap weakness | Back above EMA20 |
+| EMA Condition | Weak / uncertain | Most charts above EMA20 |
+| Overall Bias | Bearish | Neutral bullish to bullish |
+
+---
+
+## Conclusion
+
+The Week 23 bearish prediction was mostly incorrect because the market recovered during Week 24. The direction was wrong for SPY, NDX, and IWM.
+
+The main lesson is that bearish signals after a sharp pullback can change quickly if price recovers above EMA20. For future predictions, I should wait for confirmation below EMA20 before becoming strongly bearish.
+
+Overall W3 delta result:
+
+**Prediction accuracy: Low**
+
+**Reason: The market moved against the bearish Week 23 bias and recovered above EMA20.**
