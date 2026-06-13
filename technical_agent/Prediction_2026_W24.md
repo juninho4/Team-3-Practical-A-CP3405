@@ -161,3 +161,47 @@ The analysis is based on the uploaded ProRealTime chart screenshots for:
 - XLV
 
 Each chart uses daily candles and EMA20.
+
+
+---
+
+# Automation Increment
+
+## Automated Script
+
+For Week 24, I created an automated data fetch script:
+
+`fetch_market_data.py`
+
+## Purpose
+
+The purpose of this script is to automatically download market price data for the R5 Technical Agent assets and calculate technical indicators.
+
+## Assets Fetched
+
+| Asset | Purpose |
+|---|---|
+| SPY | Tracks S&P 500 |
+| NDX | Tracks Nasdaq 100 |
+| IWM | Tracks Russell 2000 |
+| XLK | Technology sector |
+| XLF | Financial sector |
+| XLV | Healthcare sector |
+
+## Indicators Calculated
+
+| Indicator | Meaning |
+|---|---|
+| EMA20 | Short-term trend |
+| EMA50 | Medium-term trend |
+| EMA200 | Long-term trend |
+
+## Why I Automated This First
+
+I chose to automate market data fetching first because my role is R5 Technical Agent. My responsibility is to analyse SPX, NDX, IWM, and sector charts. Before doing technical analysis, I need updated price data and reliable indicators.
+
+Automating the data fetch makes the weekly analysis more consistent and reduces manual work. It also gives the team a repeatable workflow for future weekly predictions.
+
+## Output
+
+The script saves one CSV file for each ETF inside the `data` folder. Each CSV includes daily price data and EMA20, EMA50, and EMA200 values.
