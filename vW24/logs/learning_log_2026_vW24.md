@@ -37,7 +37,7 @@ rising 10-year Treasury yields at 4.48 percent as factors that could temper the 
 Based on the LLM comparison, the human team should consider whether the bullish consensus is too complacent about rising yields and technology 
 sector seasonality risks. DeepSeek caution may prove valuable if yields continue to rise or if the FOMC delivers a hawkish surprise on June 18.
 
-## Process Improvements for 下页 Sprint
+## Process Improvements for Sprint
 
 Three process improvements are recommended for the next sprint.
 
