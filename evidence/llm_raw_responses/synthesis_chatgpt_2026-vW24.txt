@@ -1,0 +1,31 @@
+1. **Weekly Regime:** **Bullish**
+
+2. **Confidence Score:** **High** — All three evidence pillars align in the same direction: bullish seasonality, a broadly dovish/steady-rate macro backdrop, and positive technical trends with major indices trading above EMA20.  
+
+3. **Key Supporting Evidence:**
+
+   * July seasonality is historically strong, with the Almanac assigning a **Bullish** outlook and high confidence. 
+   * Macro backdrop is supportive: Fed hold probability is 97.4%, macro bias is labeled **Dovish**, and a weaker dollar is generally supportive for risk assets. 
+   * Technicals remain positive: SPY, NDX, IWM, and key sectors are above EMA20, with NDX, IWM, and XLK showing the strongest bullish structures.  
+
+4. **Key Contradictions:**
+
+   * Rising 10-year Treasury yields remain a headwind for growth stocks, particularly technology. 
+   * SPY is consolidating near resistance and Nasdaq is entering its historically weaker seasonal period, creating potential short-term volatility.  
+
+5. **Invalidation Conditions:**
+
+   * FOMC delivers an unexpectedly hawkish outcome or signals higher-for-longer rates.
+   * SPY, NDX, and IWM break below EMA20 and lose their stated support zones, invalidating the current bullish technical structure.  
+
+6. **Predicted % Move**
+
+   * **SPX (S&P 500):** **+0.5% to +1.8%** — Bullish
+   * **NDX (Nasdaq 100):** **+0.8% to +2.5%** — Bullish but more volatile
+   * **IWM (Russell 2000):** **+0.6% to +2.0%** — Bullish
+
+7. **Plain-English Brief:**
+   The overall evidence suggests the market has a positive bias for the coming week. Historical July strength, a likely Fed pause, and improving chart trends all support further gains. Investors should still watch the Fed meeting closely because any surprise policy shift could quickly change market sentiment.
+
+8. **Disclaimer:**
+   This assessment is based on the supplied seasonal, macro, and technical evidence and is intended for informational purposes only. It is **not financial advice**, and markets can move differently than expected due to unforeseen events or changes in economic conditions.
