@@ -1,0 +1,23 @@
+1. **Weekly Regime:** Neutral-to-Bullish (with caution)
+
+2. **Confidence Score:** Medium — Technical momentum is clearly bullish and recent cross-asset data supports risk-on rotation, but seasonal headwinds from the midterm-year June pattern and unresolved geopolitical risk prevent high confidence.
+
+3. **Key Supporting Evidence:**
+- All three major indices (SPX, NDX, IWM) are trading above both their 8 EMA and 21 EMA, confirming short-term bullish structure with NDX showing the strongest momentum.
+- VIX fell nearly 10% over the past week and Technology led sector performance at +3.4%, indicating active rotation into growth assets rather than defensive positioning.
+- Oil dropped sharply (WTI -9.57%), which reduces near-term inflation pressure and may give the Fed more room to eventually ease, providing an indirect tailwind for equities.
+
+4. **Key Contradictions:**
+- The Almanac shows that June in midterm election years has historically been one of the weakest months across all major indices, with average losses of roughly -2%, directly opposing the current bullish technical picture.
+- Geopolitical risk around a potential U.S.-Iran conflict remains unresolved, and an upcoming inflation print (expected at 3.4% vs prior 3.0%) could surprise to the hawkish side and rattle rate-sensitive growth stocks.
+
+5. **Invalidation Conditions:** The bullish view weakens materially if SPX closes below 7,505 (8 EMA), NDX closes below 29,810, or IWM closes below 287. On the macro side, a hotter-than-expected inflation flash reading, an escalation of Middle East conflict affecting oil shipping, or any unexpected hawkish Fed signal ahead of the June 17 FOMC meeting could shift the regime to Bearish.
+
+6. **Predicted % move:**
+- SPX (S&P 500): -0.5% to +1.5% — modest upside bias but capped by resistance near 7,600 and seasonal drag
+- NDX (Nasdaq 100): 0.0% to +2.0% — strongest technical setup, supported by CRWD/HPE earnings catalysts and technology seasonal tailwind
+- IWM (Russell 2000): -1.0% to +1.0% — most fragile; close to resistance, seasonally weakest, and sensitive to rates and risk sentiment
+
+7. **Plain-English brief:** Markets have been climbing this past week, led by technology stocks, and the charts still look healthy. However, history suggests that early June in a midterm election year tends to be bumpy, and a potential flare-up in the Middle East could unsettle things quickly. The most likely path is a sideways-to-slightly-up week for the S&P 500 and a somewhat better week for tech-heavy Nasdaq, but it would not take much bad news to reverse that.
+
+8. **Disclaimer:** This output is produced by an automated market intelligence synthesis tool for educational purposes only. It is not financial advice and should not be used as the basis for any investment or trading decision. Always consult a qualified financial professional before making investment choices.
