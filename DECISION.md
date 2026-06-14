@@ -1,4 +1,6 @@
 ## What did you choose to automate and why?
+We decided to go with the data mining process, which is the first step.
+
 **It was the most repetitive manual task.** Last week, one team member had to open multiple websites, copy values, take screenshots, and commit the evidence to Github.
 
 **It provides immediate value.** Automating data collection reduces manual workload, speeds up preparation, and gives the team a consistent starting point for analysis.
