@@ -12,5 +12,5 @@
 | R6 LLM Synthesis Operator | Claude, ChatGPT, Gemini, DeepSeek comparison | Li Haoyao |
 | R7 Human Score Analyst | Final judgement and human prediction | Chen Menghua |
 | R8 Data & Evidence Lead | Screenshots, actuals, evidence folder | Zhang Jiayu |
-| R9 GitHub & Integration Lead | GitHub repo, commits, README, release tag |Wang Zhiyuan  |
+| R9 GitHub & Integration Lead | GitHub repo, commits, README, release tag |  |
 | R10 QA & Learning Log Lead | Scoring, LLM horserace, learning log |Jiahai Xiong  |
