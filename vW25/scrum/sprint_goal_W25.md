@@ -1,0 +1,3 @@
+# Sprint Goal 2026-W25
+
+To improve the reliability, efficiency, and repeatability of our market forecasting system by introducing automation into the prediction workflow. During this sprint, the team will automate the collection and processing of market data, generate structured outputs from multiple analysis agents, evaluate the accuracy of Week 24 predictions through delta scoring, and compare insights from multiple LLMs using a standardized prompt. By combining automated data pipelines, human judgment, and AI-assisted analysis, the team aims to produce a transparent and evidence-based prediction for SPX, NDX, IWM, and selected S&P sectors, while continuously refining the forecasting process through inspection, measurement, and adaptation.
