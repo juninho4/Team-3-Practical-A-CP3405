@@ -1,0 +1,43 @@
+Weekly Regime: Neutral
+
+Confidence Score: Medium — Technicals are bullish, but macro conditions remain hawkish and August seasonality is slightly bearish. The evidence is mixed, preventing a high-conviction directional call.
+
+Key Supporting Evidence:
+
+Technicals remain positive: SPX, NDX, and IWM all recovered, with NDX showing the strongest relative strength.
+
+Market breadth improved as all three major indexes participated in the rebound.
+
+Falling oil prices may help inflation expectations and partially offset Fed-related pressure.
+
+Key Contradictions:
+
+Hawkish Fed messaging, elevated yields, and a stronger US dollar remain headwinds for equities.
+
+August seasonality is historically weak/slightly bearish, with a near-flat average return and negative midterm-year performance.
+
+Invalidation Conditions:
+
+Bullish invalidation: SPX falls below 7,450, NDX falls below 30,000, or IWM falls below 290.
+
+Bearish invalidation: Softer-than-expected PCE inflation, falling Treasury yields, a weaker dollar, and breakouts above SPX 7,600, NDX 30,650, and IWM 300.
+
+A materially hotter PCE report would shift the outlook toward Bearish.
+
+A clear decline in yields after PCE would shift the outlook toward Bullish.
+
+Predicted % Move
+
+SPX (S&P 500): -0.5% to +1.0%
+
+NDX (Nasdaq 100): -0.3% to +1.5%
+
+IWM (Russell 2000): -1.0% to +1.0%
+
+Plain-English Brief:
+
+The market is receiving conflicting signals. Stock price trends are still positive, especially in technology shares, but investors are facing pressure from high interest rates, a strong US dollar, and uncertainty around upcoming inflation data. The most likely outcome is a choppy week with limited upside until the PCE inflation report provides clearer direction.
+
+Disclaimer:
+
+This analysis is based on historical, macroeconomic, and technical evidence and is intended for educational and research purposes only. It is not financial advice, investment advice, or a recommendation to buy or sell any security. Always conduct your own research and consider your risk tolerance before making investment decisions.
