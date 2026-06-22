@@ -103,7 +103,7 @@ This highlights the importance of conducting early progress reports and active c
 | Role | Status | Notes |
 |---|---|---|
 | R3 Almanac Agent | Completed  | Completed normally |
-| R4 Macro / News Agent | Completed | Completed normally|
+| R4 Macro / News Agent | Not completed | Not completed |
 | R5 Technical Agent | Completed | Completed normally |
 | R6 LLM Synthesis | Completed | Completed normally |
 | R7 Human Score | Completed | Completed normally |
