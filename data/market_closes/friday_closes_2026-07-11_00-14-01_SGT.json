@@ -1,0 +1,21 @@
+{
+  "fetch_time_sgt": "2026-07-11T00:14:01.382330+08:00",
+  "note": "Automated GitHub Actions fetch for Friday market closes.",
+  "symbols": {
+    "SPX": {
+      "ticker": "^GSPC",
+      "last_trading_date": "2026-07-10",
+      "close": 7558.2
+    },
+    "NDX": {
+      "ticker": "^NDX",
+      "last_trading_date": "2026-07-10",
+      "close": 29766.04
+    },
+    "IWM": {
+      "ticker": "IWM",
+      "last_trading_date": "2026-07-10",
+      "close": 295.25
+    }
+  }
+}
