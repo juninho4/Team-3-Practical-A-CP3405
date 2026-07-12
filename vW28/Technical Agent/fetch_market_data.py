@@ -1,11 +1,41 @@
+# fetch_market_data.py
+# R5 Technical Agent - Sprint 6 / W28
+# Purpose:
+# Fetch market data for SPY, QQQ/NDX, IWM, and all 11 S&P 500 sectors.
+# Calculate EMA indicators, generate charts, and create structured CSV/JSON outputs.
+
 import os
+import json
+
+import matplotlib
+matplotlib.use("Agg")  # Prevents PyCharm/Tkinter chart errors
+
 import pandas as pd
 import yfinance as yf
 import matplotlib.pyplot as plt
 
-# R5 Technical Agent W25 assets
+
+# R5 Technical Agent W28 assets
 # QQQ is used as the ETF proxy for NDX / Nasdaq 100
-TICKERS = ["SPY", "QQQ", "IWM", "XLK", "XLF", "XLV", "XLY", "XLE"]
+TICKERS = [
+    "SPY",   # S&P 500
+    "QQQ",   # Nasdaq 100 proxy
+    "IWM",   # Russell 2000
+
+    # 11 S&P 500 sectors
+    "XLK",   # Technology
+    "XLF",   # Financials
+    "XLV",   # Healthcare
+    "XLY",   # Consumer Discretionary
+    "XLE",   # Energy
+    "XLC",   # Communication Services
+    "XLI",   # Industrials
+    "XLP",   # Consumer Staples
+    "XLU",   # Utilities
+    "XLRE",  # Real Estate
+    "XLB"    # Materials
+]
+
 
 MARKET_NAMES = {
     "SPY": "S&P 500",
@@ -15,14 +45,24 @@ MARKET_NAMES = {
     "XLF": "Financial sector",
     "XLV": "Healthcare sector",
     "XLY": "Consumer Discretionary sector",
-    "XLE": "Energy sector"
+    "XLE": "Energy sector",
+    "XLC": "Communication Services sector",
+    "XLI": "Industrials sector",
+    "XLP": "Consumer Staples sector",
+    "XLU": "Utilities sector",
+    "XLRE": "Real Estate sector",
+    "XLB": "Materials sector"
 }
+
 
 PERIOD = "1y"
 INTERVAL = "1d"
 
 DATA_FOLDER = "data"
 CHART_FOLDER = "charts"
+
+CSV_OUTPUT = "technical_agent_output_W28.csv"
+JSON_OUTPUT = "technical_agent_output_W28.json"
 
 
 def get_technical_bias(last_close, ema20, ema50):
@@ -41,28 +81,42 @@ def get_technical_bias(last_close, ema20, ema50):
 def create_chart(data, ticker):
     """Create and save a price chart with EMA20."""
 
-    plt.figure(figsize=(10, 5))
+    fig, ax = plt.subplots(figsize=(10, 5))
 
-    plt.plot(data.index, data["Close"], label="Close Price")
-    plt.plot(data.index, data["EMA20"], label="EMA20")
+    ax.plot(data.index, data["Close"], label="Close Price")
+    ax.plot(data.index, data["EMA20"], label="EMA20")
 
-    plt.title(f"{ticker} - Price with EMA20")
-    plt.xlabel("Date")
-    plt.ylabel("Price")
-    plt.legend()
-    plt.grid(True)
+    ax.set_title(f"{ticker} - Price with EMA20")
+    ax.set_xlabel("Date")
+    ax.set_ylabel("Price")
+    ax.legend()
+    ax.grid(True)
 
     chart_path = os.path.join(CHART_FOLDER, f"{ticker}_EMA20_chart.png")
-    plt.savefig(chart_path, bbox_inches="tight")
-    plt.close()
+    fig.savefig(chart_path, bbox_inches="tight")
+    plt.close(fig)
 
     print(f"Saved chart to {chart_path}")
+    return chart_path
+
+
+def clean_downloaded_data(data):
+    """
+    Clean yfinance data.
+    Sometimes yfinance returns multi-index columns.
+    This function keeps the code safer.
+    """
+
+    if isinstance(data.columns, pd.MultiIndex):
+        data.columns = data.columns.get_level_values(0)
+
+    return data
 
 
 def fetch_market_data():
     """
     Fetch market data, calculate EMA indicators,
-    save CSV files, create charts, and create a structured output file.
+    save CSV files, create charts, and create structured CSV/JSON output.
     """
 
     os.makedirs(DATA_FOLDER, exist_ok=True)
@@ -81,8 +135,14 @@ def fetch_market_data():
             progress=False
         )
 
+        data = clean_downloaded_data(data)
+
         if data.empty:
             print(f"No data found for {ticker}")
+            continue
+
+        if "Close" not in data.columns:
+            print(f"No Close price column found for {ticker}")
             continue
 
         # Calculate EMA indicators
@@ -96,10 +156,11 @@ def fetch_market_data():
         print(f"Saved data to {data_file}")
 
         # Create chart
-        create_chart(data, ticker)
+        chart_path = create_chart(data, ticker)
 
         # Latest values
         last_row = data.iloc[-1]
+
         last_close = float(last_row["Close"])
         ema20 = float(last_row["EMA20"])
         ema50 = float(last_row["EMA50"])
@@ -120,16 +181,22 @@ def fetch_market_data():
             "EMA50": round(ema50, 2),
             "EMA200": round(ema200, 2),
             "EMA20 Condition": ema20_condition,
-            "Technical Bias": technical_bias
+            "Technical Bias": technical_bias,
+            "Data File": data_file,
+            "Chart File": chart_path
         })
 
-    # Save structured output file
+    # Save structured CSV output
     summary = pd.DataFrame(summary_rows)
-    summary_file = "technical_agent_output_W25.csv"
-    summary.to_csv(summary_file, index=False)
+    summary.to_csv(CSV_OUTPUT, index=False)
 
-    print(f"Saved structured output to {summary_file}")
-    print("Market data fetch and chart generation completed.")
+    # Save structured JSON output
+    with open(JSON_OUTPUT, "w", encoding="utf-8") as json_file:
+        json.dump(summary_rows, json_file, indent=4)
+
+    print(f"Saved structured CSV output to {CSV_OUTPUT}")
+    print(f"Saved structured JSON output to {JSON_OUTPUT}")
+    print("R5 W28 market data fetch and chart generation completed.")
 
 
 if __name__ == "__main__":
