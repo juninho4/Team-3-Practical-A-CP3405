@@ -1,0 +1,41 @@
+name: R5 Technical Agent Pipeline
+
+on:
+  push:
+    paths:
+      - "vW28/Technical Agent/**"
+      - ".github/workflows/r5_technical_agent.yml"
+  schedule:
+    - cron: "0 2 * * 6"
+
+jobs:
+  run-r5-technical-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install -r "vW28/Technical Agent/requirements.txt"
+
+      - name: Run R5 technical agent
+        run: |
+          cd "vW28/Technical Agent"
+          python fetch_market_data.py
+
+      - name: Upload R5 outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: r5-technical-agent-outputs
+          path: |
+            vW28/Technical Agent/data/
+            vW28/Technical Agent/charts/
+            vW28/Technical Agent/technical_agent_output_W28.csv
+            vW28/Technical Agent/technical_agent_output_W28.json
