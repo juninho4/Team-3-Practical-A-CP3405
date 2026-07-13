@@ -1,0 +1,9 @@
+Ticker,Market,Last Close,EMA20,EMA50,EMA200,EMA20 Condition,Technical Bias
+SPY,S&P 500,754.95,744.49,734.3,694.87,Above EMA20,Bullish
+QQQ,Nasdaq 100 proxy,725.51,719.87,705.09,645.55,Above EMA20,Bullish
+IWM,Russell 2000,295.99,294.99,287.65,264.1,Above EMA20,Bullish
+XLK,Technology sector,185.78,184.11,178.14,156.33,Above EMA20,Bullish
+XLF,Financial sector,55.71,54.31,53.05,52.14,Above EMA20,Bullish
+XLV,Healthcare sector,160.84,157.76,153.36,148.24,Above EMA20,Bullish
+XLY,Consumer Discretionary sector,117.24,116.59,116.55,115.94,Above EMA20,Bullish
+XLE,Energy sector,55.08,54.73,55.6,52.2,Above EMA20,Neutral bullish
