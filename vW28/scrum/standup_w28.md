@@ -34,14 +34,16 @@ This highlights the importance of conducting early progress reports and active c
 
 ### Team Progress
 
-- 
+- Most of the roles have not started working.
+  
 ### Blockers
 
-- None
+- R3,4,5,6,7,8,9,10
 
 ### Actions
 
-- 
+-Remind the roles to hurry up and complete the work.
+
 ---
 
 ## Standup 2
@@ -50,45 +52,29 @@ This highlights the importance of conducting early progress reports and active c
 
 ### Team Progress
 
--
+- R2 completed the initial work
+- R8 wait until the prerequisite roles have completed their tasks before starting work.
+- R9 completed work
+- R6 completed work
 
 ### Blockers
 
-- 
+- R8 last week's work was not completed, which affected this week's work.
+- R4 Has been offline for 4 consecutive weeks and has not communicated with the team.
 
 ### Actions
 
-- 
+- R8 complete the work from last week.
+- Contact R4 to inquire about the reason for the offline status.
 
----
-
-### Blockers
-
-- None
-
-### Actions
-
-- 
 ---
 
 ## Overall Progress
 
-| Role | Status | Notes |
-|---|---|---|
-| R2 Scrum Master |  |  |
-| R3 Almanac Agent |  |  |
-| R4 Macro / News Agent |  |  |
-| R5 Technical Agent |  |  |
-| R6 LLM Synthesis Operator |  |  |
-| R7 Human Score Analyst |  |  |
-| R8 Data & Evidence Lead |  |
-| R9 GitHub & Integration Lead |  |  |
-| R10 QA & Learning Log Lead |  |  |
+- R4 The failure to complete the work has caused significant impacts on many subsequent tasks.
+
 ---
 
 ## Current Status
 
-
-
-
-
+The sprint phase has been partially completed. R2, R3, R5, R6 and R9 have completed their assigned tasks, while some roles are still waiting for the completion of the prerequisite work. Due to the delay of R4, the overall sprint progress has been affected to some extent. The team will continue to closely monitor the progress, follow up on the unfinished tasks, and enhance communication to ensure that the remaining work can be completed on time.
