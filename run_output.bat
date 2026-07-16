@@ -3,6 +3,8 @@ setlocal
 
 cd /d "%~dp0"
 
+REM Change only this line for the next week, for example vW30
+set "WEEK=vW29"
 
 git rev-parse --is-inside-work-tree >nul 2>&1
 
@@ -27,26 +29,41 @@ if errorlevel 1 (
 echo.
 echo Adding generated output files...
 
+REM Shared market outputs
 if exist "data\market_closes" (
     git add "data\market_closes"
 )
 
-if exist "vW28\evidence" (
-    git add "vW28\evidence"
+REM Current-week outputs
+if exist "%WEEK%\output" (
+    git add "%WEEK%\output"
 )
 
-if exist "vW28\Technical Agent" (
-    git add "vW28\Technical Agent"
+if exist "%WEEK%\evidence" (
+    git add "%WEEK%\evidence"
 )
 
+if exist "%WEEK%\Technical Agent" (
+    git add "%WEEK%\Technical Agent"
+)
+
+if exist "%WEEK%\agents" (
+    git add "%WEEK%\agents"
+)
+
+REM Existing R6 output location
 if exist "vW25\llm\R6_one_click_integrated_answer_only_fixed\output" (
     git add "vW25\llm\R6_one_click_integrated_answer_only_fixed\output"
 )
 
+REM Root-level generated files
 git add fed_market_report_*.md 2>nul
 git add technical_agent_output_*.csv 2>nul
 git add technical_agent_output_*.json 2>nul
-git add charts 2>nul
+
+if exist "charts" (
+    git add "charts"
+)
 
 echo.
 echo Checking for new changes...
@@ -63,7 +80,7 @@ if not errorlevel 1 (
 echo.
 echo Creating commit...
 
-git commit -m "Update automated agent outputs"
+git commit -m "Update %WEEK% automated agent outputs"
 
 if errorlevel 1 (
     echo.
@@ -86,9 +103,8 @@ if errorlevel 1 (
 )
 
 echo.
-echo =========================================
-echo Upload completed successfully!
-echo =========================================
+echo Upload completed successfully.
+echo Week: %WEEK%
 echo.
 
 pause
