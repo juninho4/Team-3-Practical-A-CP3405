@@ -16,7 +16,7 @@ if errorlevel 1 (
 )
 
 echo Pulling latest changes from GitHub...
-git pull --rebase origin main
+git pull --rebase --autostash origin main
 
 if errorlevel 1 (
     echo.
@@ -34,21 +34,9 @@ if exist "data\market_closes" (
     git add "data\market_closes"
 )
 
-REM Current-week outputs
-if exist "%WEEK%\output" (
-    git add "%WEEK%\output"
-)
-
-if exist "%WEEK%\evidence" (
-    git add "%WEEK%\evidence"
-)
-
-if exist "%WEEK%\Technical Agent" (
-    git add "%WEEK%\Technical Agent"
-)
-
-if exist "%WEEK%\agents" (
-    git add "%WEEK%\agents"
+REM Upload the complete current-week folder
+if exist "%WEEK%" (
+    git add "%WEEK%"
 )
 
 REM Existing R6 output location
@@ -71,7 +59,7 @@ echo Checking for new changes...
 git diff --cached --quiet
 
 if not errorlevel 1 (
-    echo No new output files were found.
+    echo No new or changed files were found.
     echo Nothing needs to be uploaded.
     pause
     exit /b 0
