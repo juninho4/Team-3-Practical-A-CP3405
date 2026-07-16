@@ -3,14 +3,20 @@ setlocal
 
 cd /d "%~dp0"
 
-REM Change only this line for the next week, for example vW30
 set "WEEK=vW29"
 
 git rev-parse --is-inside-work-tree >nul 2>&1
 
 if errorlevel 1 (
-    echo ERROR: This folder is not a Git repository.
-    echo Put this file beside README.md in the cloned project folder.
+    echo ERROR: This is not a Git repository.
+    echo Put this BAT file beside README.md.
+    pause
+    exit /b 1
+)
+
+if not exist "%WEEK%" (
+    echo ERROR: %WEEK% folder was not found.
+    echo Please create %WEEK% beside vW28 first.
     pause
     exit /b 1
 )
@@ -21,45 +27,27 @@ git pull --rebase --autostash origin main
 if errorlevel 1 (
     echo.
     echo ERROR: Git pull failed.
-    echo Please resolve the conflict first.
     pause
     exit /b 1
 )
 
 echo.
-echo Adding generated output files...
+echo Adding files from %WEEK%...
+git add "%WEEK%"
 
-REM Shared market outputs
-if exist "data\market_closes" (
-    git add "data\market_closes"
-)
-
-REM Upload the complete current-week folder
-if exist "%WEEK%" (
-    git add "%WEEK%"
-)
-
-REM Existing R6 output location
-if exist "vW25\llm\R6_one_click_integrated_answer_only_fixed\output" (
-    git add "vW25\llm\R6_one_click_integrated_answer_only_fixed\output"
-)
-
-REM Root-level generated files
-git add fed_market_report_*.md 2>nul
-git add technical_agent_output_*.csv 2>nul
-git add technical_agent_output_*.json 2>nul
-
-if exist "charts" (
-    git add "charts"
+if errorlevel 1 (
+    echo.
+    echo ERROR: Git could not add %WEEK%.
+    pause
+    exit /b 1
 )
 
 echo.
-echo Checking for new changes...
-
+echo Checking for changes...
 git diff --cached --quiet
 
 if not errorlevel 1 (
-    echo No new or changed files were found.
+    echo No new or changed files were found in %WEEK%.
     echo Nothing needs to be uploaded.
     pause
     exit /b 0
@@ -67,8 +55,7 @@ if not errorlevel 1 (
 
 echo.
 echo Creating commit...
-
-git commit -m "Update %WEEK% automated agent outputs"
+git commit -m "Update %WEEK% files"
 
 if errorlevel 1 (
     echo.
@@ -79,7 +66,6 @@ if errorlevel 1 (
 
 echo.
 echo Uploading to GitHub...
-
 git push origin main
 
 if errorlevel 1 (
@@ -92,7 +78,5 @@ if errorlevel 1 (
 
 echo.
 echo Upload completed successfully.
-echo Week: %WEEK%
-echo.
-
+echo Uploaded folder: %WEEK%
 pause
