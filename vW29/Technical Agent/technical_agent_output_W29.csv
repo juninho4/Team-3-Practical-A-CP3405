@@ -1,0 +1,15 @@
+Ticker,Market,Last Trading Date,Last Close,EMA20,EMA50,EMA200,EMA20 Condition,Technical Bias,Data File,Chart File
+SPY,S&P 500,2026-07-17,743.71,746.57,737.14,697.91,Below EMA20,Neutral bearish,data\SPY.csv,charts\SPY_EMA20_chart.png
+QQQ,Nasdaq 100 proxy,2026-07-17,697.06,715.8,705.99,649.32,Below EMA20,Neutral bearish,data\QQQ.csv,charts\QQQ_EMA20_chart.png
+IWM,Russell 2000,2026-07-17,293.84,294.86,288.92,265.76,Below EMA20,Neutral bearish,data\IWM.csv,charts\IWM_EMA20_chart.png
+XLK,Technology sector,2026-07-17,176.12,182.37,178.46,157.69,Below EMA20,Neutral bearish,data\XLK.csv,charts\XLK_EMA20_chart.png
+XLF,Financial sector,2026-07-17,56.25,55.13,53.65,52.37,Above EMA20,Bullish,data\XLF.csv,charts\XLF_EMA20_chart.png
+XLV,Healthcare sector,2026-07-17,161.22,158.75,154.6,148.63,Above EMA20,Bullish,data\XLV.csv,charts\XLV_EMA20_chart.png
+XLY,Consumer Discretionary sector,2026-07-17,115.51,116.5,116.52,115.92,Below EMA20,Bearish,data\XLY.csv,charts\XLY_EMA20_chart.png
+XLE,Energy sector,2026-07-17,57.6,55.62,55.85,52.34,Above EMA20,Neutral bullish,data\XLE.csv,charts\XLE_EMA20_chart.png
+XLC,Communication Services sector,2026-07-17,110.53,110.73,111.68,112.74,Below EMA20,Bearish,data\XLC.csv,charts\XLC_EMA20_chart.png
+XLI,Industrials sector,2026-07-17,179.62,180.41,177.47,167.48,Below EMA20,Neutral bearish,data\XLI.csv,charts\XLI_EMA20_chart.png
+XLP,Consumer Staples sector,2026-07-17,84.97,84.15,83.74,81.91,Above EMA20,Bullish,data\XLP.csv,charts\XLP_EMA20_chart.png
+XLU,Utilities sector,2026-07-17,45.15,45.25,45.03,44.12,Below EMA20,Neutral bearish,data\XLU.csv,charts\XLU_EMA20_chart.png
+XLRE,Real Estate sector,2026-07-17,45.33,44.59,44.12,42.42,Above EMA20,Bullish,data\XLRE.csv,charts\XLRE_EMA20_chart.png
+XLB,Materials sector,2026-07-17,50.49,50.92,50.93,48.97,Below EMA20,Bearish,data\XLB.csv,charts\XLB_EMA20_chart.png
