@@ -6,7 +6,7 @@ R2 Scrum Master
 
 ## Purpose
 
-This file records the team retrospective for Week 26. It focuses on Scrum process, team coordination, role accountability, blockers, and improvement actions.
+This file records the team retrospective for Week 28. It focuses on Scrum process, team coordination, role accountability, blockers, and improvement actions.
 
 This file focuses on team process. Agent Agent work + API wiring
 
