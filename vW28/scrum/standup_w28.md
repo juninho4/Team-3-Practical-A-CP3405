@@ -6,7 +6,7 @@ R2 Scrum Master
 
 # Purpose
 
-This file records the team communication, progress, blockers, and follow-up actions for Week 26.
+This file records the team communication, progress, blockers, and follow-up actions for Week 28.
 
 ---
 
