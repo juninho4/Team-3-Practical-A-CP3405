@@ -1,0 +1,18 @@
+1. Weekly Regime: Bearish
+2. Confidence Score: Medium - Major equity indexes (SPY, QQQ, IWM) have concurrently broken below their 20-day EMAs, aligned with a 24.8% spike in the VIX and defensive sector rotation. However, select defensive sectors and Financials (XLF) remain in bullish uptrends, limiting immediate systemic collapse.
+3. Key Supporting Evidence:
+   - **Technical Breakdowns**: Major averages (SPY, QQQ, IWM) all closed below their 20-day EMAs. Notably, the Nasdaq 100 proxy (QQQ) experienced a severe breakdown, closing well below its 50-day EMA.
+   - **Spike in Volatility**: The VIX rose +24.88% to 18.77, indicating rapid risk aversion and an unwinding of risk assets.
+   - **Defensive Rotation**: Heavyweight growth sectors like Technology (XLK -5.48%) led the declines, while defensive sectors like Consumer Staples, Energy, and Real Estate led the week, signaling a classic risk-off shift.
+4. Key Contradictions:
+   - **Pockets of Relative Strength**: Defensive sectors (XLP, XLV, XLRE) and Financials (XLF) maintain bullish profiles, trading comfortably above their 20-day EMAs.
+   - **Neutral Rates and Currency**: The US 10Y Yield and US Dollar Index remained relatively flat and neutral, indicating that the stock market sell-off is not yet driven by a sudden rates shock.
+5. Invalidation Conditions:
+   - A reclaim and close of SPY above 746.50 and QQQ above 715.60 (recovering their 20-day EMAs).
+   - VIX dropping back below 16, signaling a rapid return to a risk-on environment.
+   - A sharp reversal in WTI crude oil (currently at $81.78) below $78 to ease immediate inflation concerns.
+6. Predicted % move - SPX (S&P 500): [-0.8% to -2.2%] - bearish continuation
+   Predicted % move - NDX (Nasdaq 100): [-1.5% to -3.0%] - bearish underperformance
+   Predicted % move - IWM (Russell 2000): [-0.5% to -1.8%] - bearish consolidation
+7. Plain-English brief: The stock market is entering a period of short-term weakness, highlighted by a sharp decline in tech stocks and a sudden spike in market volatility. Investors are pulling money out of high-growth sectors and seeking safety in defensive areas like energy and household staples. Expect continued downward pressure on your portfolio as the market processes these risks.
+8. Disclaimer: This report is for market intelligence and informational purposes only. It does not constitute investment advice, and you should consult a licensed financial professional before making any trading decisions.
