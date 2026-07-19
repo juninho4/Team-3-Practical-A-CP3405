@@ -30,7 +30,7 @@ This highlights the importance of conducting early progress reports and active c
 
 ## Standup 1
 
-2026-W26 Day 1
+2026-W28 Day 1
 
 ### Team Progress
 
@@ -48,7 +48,7 @@ This highlights the importance of conducting early progress reports and active c
 
 ## Standup 2
 
-2026-W26 Day 2
+2026-W28 Day 2
 
 ### Team Progress
 
