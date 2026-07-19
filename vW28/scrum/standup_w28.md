@@ -1,4 +1,4 @@
-# Standup Notes 2026-W26
+# Standup Notes 2026-W28
 
 # Role
 
