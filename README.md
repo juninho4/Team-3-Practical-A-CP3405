@@ -18,7 +18,7 @@
 ## Team Roles (Revision)
 | Role | Responsibility | Student Name |
 |---|---|---|
-| R1 Product Owner | Sprint goal and acceptance criteria |  |
+| R1 Product Owner | Sprint goal and acceptance criteria | Jiahai Xiong |
 | R2 Scrum Master | Standups, blockers, retrospective | Zhang Jiale |
 | R3 Almanac Agent | Seasonal and historical market analysis | |
 | R4 Macro / News Agent | FedWatch, rates, oil, news, economic calendar | |
