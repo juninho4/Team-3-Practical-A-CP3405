@@ -34,8 +34,8 @@ Raw AI responses are saved in:
 
 | Dimension | Gemini |
 |---|---|
-| Weekly Regime | Bearish |
-| Confidence | High |
+| Weekly Regime | Not found |
+| Confidence | Score |
 | SPX Direction | Not found |
 | SPX % Range | Not found |
 | NDX Direction | Not found |
@@ -52,7 +52,7 @@ Raw AI responses are saved in:
 
 The models mostly agreed that:
 
-- Most models leaned toward a Bearish weekly regime.
+- Most models leaned toward a Uncertain weekly regime.
 - All models used the same R3/R4/R5 evidence package and shared prompt.
 - All models used the same R3/R4/R5 evidence package and shared prompt.
 - All models used the same R3/R4/R5 evidence package and shared prompt.
@@ -74,7 +74,7 @@ The models disagreed on:
 
 ### Gemini
 
-Gemini suggested a **Bearish** regime with **High** confidence.
+Gemini suggested a **Not found** regime with **Score** confidence.
 
 Predicted ranges:
 
@@ -94,11 +94,11 @@ Key risk / invalidation:
 
 ## R8 Synthesis Summary
 
-The overall AI view is **Bearish** with **High** confidence.
+The overall AI view is **Uncertain** with **Medium** confidence.
 
 The strongest common argument is that:
 
-- Most models leaned toward a Bearish weekly regime.
+- Most models leaned toward a Uncertain weekly regime.
 - All models used the same R3/R4/R5 evidence package and shared prompt.
 - All models used the same R3/R4/R5 evidence package and shared prompt.
 
@@ -126,11 +126,11 @@ This output will be passed to R7 Human Score Analyst for final human judgement.
 
 Suggested regime for human review:
 
-**Bearish**
+**Uncertain**
 
 Suggested confidence:
 
-**High**
+**Medium**
 
 Suggested relative strength / weakness:
 

@@ -1,28 +1,29 @@
-1. **Weekly Regime**: Bearish
+### 1. Weekly Regime
+Bearish
 
-2. **Confidence Score**: High
-The seasonal, macro, and technical indicators are strongly aligned. A highly restrictive macro environment (Macro Score: -5) combined with the key equity indices breaking below their 20-day exponential moving averages (EMAs) validates the seasonally weak July midterm-election year analogue.
+### 2. Confidence Score
+High — This assessment is supported by strong convergence across all three analytical pillars: a bearish US midterm-election seasonal analogue (-0.60% composite score), a severely restrictive macro environment (macro score of -5), and a near-universal technical breakdown across indices and sectors.
 
-3. **Key Supporting Evidence**:
-- **Technical Breakdowns**: All three major index proxies—SPY (738.93), QQQ (684.23), and IWM (291.17)—closed the week below their 20-day EMAs, with the tech-heavy QQQ also slicing decisively below its 50-day EMA (704.30).
-- **Severe Macro Headwinds**: Restrictive pressures are building via rising US 10-year Treasury yields (up 0.14 pts to 4.68%), a stronger US Dollar Index (+0.71% to 101.46), credit weakness (HYG -0.53%), and steepling oil prices (WTI +9.67% to $90.47) reviving inflation concerns.
-- **Risk-Off Sector Rotation**: Market leadership has shifted entirely defensive (XLE +3.36%, XLU +2.48%), while key secular growth sectors have experienced aggressive distribution (XLY -5.22%, XLC -3.93%, XLK falling below its 20-day EMA).
+### 3. Key Supporting Evidence
+1. **Universal Technical Breakdown**: All major index proxies (SPY, QQQ, IWM) and all 11 market sectors have broken below their respective 20-day Exponential Moving Averages (EMA20), confirming a coordinated short-term downtrend. 
+2. **Severe Macro Headwinds**: The US 10-year yield surged +0.14 percentage points to 4.68%, putting intense valuation pressure on growth assets, while a stronger US Dollar Index (101.43, +0.69%) and high-yield credit weakness (HYG -0.71%) restrict liquidity.
+3. **Risk-Off Sector Rotation**: Defensive leadership (Energy, Utilities, and Industrials outperforming) paired with severe weakness in consumer discretionary (XLY -7.31%) and communication services (XLC -6.45%) demonstrates professional money moving out of high-beta sectors.
 
-4. **Key Contradictions**:
-- **Resilient S&P 500 Midterm Seasonality**: Historically, the S&P 500 averages a +1.3% return during midterm Julys, contrasting with the negative seasonal averages seen in Nasdaq (-0.8%) and Russell 2000 (-2.5%) proxies.
-- **Defensive Pockets of Bullishness**: Despite the index-level breakdowns, several sectors (including Financials, Healthcare, Industrials, Utilities, and Real Estate) remain technically bullish and above their respective 20-day EMAs.
+### 4. Key Contradictions
+1. **July Baseline Seasonal Strength**: Standard non-midterm historical data points to July as the strongest month of the third quarter, typically supported by early-month retirement fund inflows.
+2. **Muted Volatility**: Despite broad price declines, the VIX decreased slightly (-1.01% to 18.58), indicating an orderly de-risking process rather than panic selling.
 
-5. **Invalidation Conditions**:
-- A sharp reversal in the US 10-year yield back below 4.50% or a sudden weakness in the US Dollar Index.
-- Major benchmark indices (specifically SPY and QQQ) reclaiming and closing back above their respective 20-day EMAs.
-- A breakout in volatility (VIX rising above 20) which would signal panic liquidation rather than the current risk-off orderly rotation.
+### 5. Invalidation Conditions
+* Major index proxies must reclaim and close above their respective 20-day EMAs (specifically SPY > 745.64, QQQ > 710.59, and IWM > 294.47).
+* A swift reversal in the US 10-year yield back below 4.50% and a cooling US Dollar Index to alleviate rate-sensitive equity pressures.
 
-6. **Predicted % move**:
-- **SPX (S&P 500)**: [-0.5% to -1.5%]
-- **NDX (Nasdaq 100)**: [-1.0% to -2.5%]
-- **IWM (Russell 2000)**: [-0.5% to -2.0%]
+### 6. Predicted % Move
+* **SPX (S&P 500)**: [-0.5% to -1.5%]
+* **NDX (Nasdaq 100)**: [-1.0% to -2.5%]
+* **IWM (Russell 2000)**: [-1.5% to -3.0%]
 
-7. **Plain-English brief**: 
-The stock market is entering a challenging period as major technology and consumer-related stocks break below their key short-term support levels. Rising bond yields, a stronger dollar, and climbing energy prices are creating a tough environment for riskier assets, prompting investors to seek safety in defensive sectors like utilities and energy. We suggest maintaining a highly cautious, defensive posture for the upcoming week.
+### 7. Plain-English Brief
+The stock market is currently facing a difficult combination of historical election-year headwinds, rising interest rates, and breaking charts. As borrowing costs climb and the US dollar strengthens, investors are pulling money out of aggressive tech and consumer sectors and moving into defensive safety nets like utilities and energy. Because major market benchmarks have broken below their short-term support levels, caution is highly warranted for the week ahead.
 
-8. **Disclaimer**: This market regime recommendation is for informational and educational purposes only. It does not constitute investment advice, financial advice, or a recommendation to buy or sell any security. All investment decisions should be made independently after consulting with a qualified professional.
+### 8. Disclaimer
+This market intelligence synthesis is for informational and educational purposes only and does not constitute financial, investment, or trading advice. Please consult with a registered financial professional before making any investment decisions.

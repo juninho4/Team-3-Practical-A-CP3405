@@ -1,11 +1,13 @@
 # R8 API Call Log
 
 - Sprint: vW30
-- Run time: 2026-07-25T03:53:44+00:00
-- Successful providers: 1/2
-- Required successes: 1
+- Run time: 2026-07-25T04:29:44+00:00
+- Successful providers: 1/3
+- Requested minimum successes: 0
+- Failure policy: non-fatal; errors are logged and the pipeline continues
 
-| Provider | Model | Status | Output |
-|---|---|---|---|
-| Groq | openai/gpt-oss-120b | FAILED - HTTP 403: error code: 1010  | - |
-| Google Gemini | gemini-3.5-flash | FAILED - '/home/runner/work/Team-3-Practical-A-CP3405/Team-3-Practical-A-CP3405/vW30/llm/synthesis_gemini.txt' is not in the subpath of '/home/runner/work/Team-3-Practical-A-CP3405/Team-3-Practical-A-CP3405/project' | - |
+| Provider | Model | Status | Error Code | Detail | Output |
+|---|---|---|---|---|---|
+| Groq | openai/gpt-oss-120b | FAILED | HTTP_403 / 1010 | HTTP 403: error code: 1010 | - |
+| Google Gemini | gemini-3.5-flash | OK | - | - | vW30/llm/synthesis_gemini.txt |
+| OpenRouter | openrouter/free | FAILED | HTTP_401 / 401 | HTTP 401: Missing Authentication header (error code: 401) | - |
