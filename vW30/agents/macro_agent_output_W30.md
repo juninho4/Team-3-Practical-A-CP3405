@@ -3,7 +3,7 @@
 ## Analysis Period
 
 - Week: 2026-07-20 to 2026-07-26
-- Generated: 2026-07-25 04:29 UTC
+- Generated: 2026-07-25 04:33 UTC
 - Method: Independent rule-based macro analysis completed before LLM synthesis
 
 ## Final Macro Thesis
@@ -19,11 +19,11 @@ The macro environment is assessed as **bearish**. The strongest positive evidenc
 | Signal | Latest | 5-session change | Interpretation | Score |
 | --- | --- | --- | --- | --- |
 | US 10Y yield | 4.68% | +0.14 pts | Higher yields pressure rate-sensitive assets | -1 |
-| US Dollar Index | 101.43 | +0.69% | A stronger dollar is a macro headwind | -1 |
+| US Dollar Index | 101.47 | +0.71% | A stronger dollar is a macro headwind | -1 |
 | VIX | 18.58 | -1.01% | Volatility signal is neutral | +0 |
-| High-yield bonds (HYG) | 79.23 | -0.71% | Credit weakness is a risk signal | -1 |
+| High-yield bonds (HYG) | 79.23 | -0.53% | Credit weakness is a risk signal | -1 |
 | WTI crude oil | 89.31$ | +8.27% | Oil strength may increase inflation pressure | -1 |
-| Sector rotation | Cyclical -1.56% / Defensive -0.70% | Spread -0.86 pts | Defensive leadership indicates risk-off rotation | -1 |
+| Sector rotation | Cyclical -0.33% / Defensive +0.83% | Spread -1.16 pts | Defensive leadership indicates risk-off rotation | -1 |
 
 ## Inflation Signal
 
@@ -33,23 +33,23 @@ Source: [US Bureau of Labor Statistics API](https://www.bls.gov/developers/)
 
 ## Sector Rotation
 
-- Leaders: XLE (+4.14%), XLU (+1.58%), XLI (+0.99%)
-- Laggards: XLP (-3.03%), XLC (-6.45%), XLY (-7.31%)
+- Leaders: XLE (+3.36%), XLU (+2.48%), XLI (+1.81%)
+- Laggards: XLP (-1.24%), XLC (-3.93%), XLY (-5.22%)
 - Rotation conclusion: Defensive leadership indicates risk-off rotation
 
 | Ticker | Sector | 5D return | Trend |
 | --- | --- | --- | --- |
-| XLE | Energy | +4.14% | Above EMA20 |
-| XLU | Utilities | +1.58% | Above EMA20 |
-| XLI | Industrials | +0.99% | Above EMA20 |
-| XLK | Technology | +0.52% | Below EMA20 |
-| XLV | Health Care | -0.22% | Above EMA20 |
-| XLRE | Real Estate | -1.12% | Above EMA20 |
-| XLB | Materials | -1.18% | Below EMA20 |
-| XLF | Financials | -1.62% | Above EMA20 |
-| XLP | Consumer Staples | -3.03% | Below EMA20 |
-| XLC | Communication Services | -6.45% | Below EMA20 |
-| XLY | Consumer Discretionary | -7.31% | Below EMA20 |
+| XLE | Energy | +3.36% | Above EMA20 |
+| XLU | Utilities | +2.48% | Above EMA20 |
+| XLI | Industrials | +1.81% | Above EMA20 |
+| XLB | Materials | +1.44% | Above EMA20 |
+| XLRE | Real Estate | +1.17% | Above EMA20 |
+| XLV | Health Care | +0.92% | Above EMA20 |
+| XLK | Technology | +0.17% | Below EMA20 |
+| XLF | Financials | +0.09% | Above EMA20 |
+| XLP | Consumer Staples | -1.24% | Below EMA20 |
+| XLC | Communication Services | -3.93% | Below EMA20 |
+| XLY | Consumer Discretionary | -5.22% | Below EMA20 |
 
 Evidence chart: [r4_macro_evidence_W30.png](r4_macro_evidence_W30.png)
 

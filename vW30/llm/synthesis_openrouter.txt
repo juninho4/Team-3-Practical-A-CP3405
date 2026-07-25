@@ -1,0 +1,117 @@
+We need to produce an answer exactly with the structure enumerated.
+
+We must read evidence and decide weekly market regime recommendation for vW30 (week 2026-07-20 to 2026-07-26). Provide weekly regime (i.e., recommendation) which could be Bullish/Bearish/Neutral/Uncertain. Then confidence score: Low/Medium/High with justification. Then up to 3 key supporting evidence items, up to 2 key contradictions. Then invalidation conditions. Then predicted % move ranges for SPX, NDX, IWM with direction and range. Then plain-English brief 2-3 sentences. Then disclaimer. Must be exactly that structure.
+
+We must incorporate relevant evidence from Almanac (R3) which says "slightly bearish" and composite seasonal score -0.60% across indices. Macro (R4) verdict bearish high confidence, score -5; macro headwinds: higher yields, strong dollar, credit weakness, defensive leadership, oil strength inflation pressure. Technical (R5) data shows majority of tickers have price below EMA20 (i.e., bearish) except some defensive sectors above (XLF, XLV, XLE, XLI, XLRE, XLB) but many have neutral/neutral bearish. Overall technical bias seems bearish leaning.
+
+Thus regime likely Bearish. Confidence medium-high but maybe Medium given mixed signals? R4 high confidence but macro signals are bearish but maybe not fully decisive; R3 says slightly bearish medium confidence. We can say Confidence: Medium, justification: mixed evidence but macro headwinds dominate.
+
+Key supporting evidence: 1) Almanac composite seasonal score -0.60% (slightly bearish) across indices. 2) Macro bearish thesis with high confidence and strong headwinds (higher yields, strong dollar, credit weakness). 3) Technical bias: majority of sector ETFs below EMA20 with neutral bearish/ bearish classifications.
+
+Key contradictions: 1) Some defensive sectors (XLF, XLV, XLE, XLI, XLRE) are above EMA20 showing bullish bias. 2) July historically strong for SPX historically bullish (though midterm July average is flat? Actually July SPX rank suggests bullish but NDX and IWM bearish). So contradiction.
+
+Invalidation conditions: If 10-year yield sharply reverses down, or dollar sharply falls, or VIX spikes upward, or new positive macro data (e.g., CPI shows cooling inflation) leading to risk-on, or earnings season surprises with broad upside.
+
+Predicted % move ranges: Since bearish, likely negative. Provide ranges maybe -0.5% to -1.5% for SPX weekly, NDX more negative maybe -1% to -2%, IWM maybe -1% to -2.5%? Provide bracket.
+
+We must output exactly the structure:
+
+1. Weekly Regime: [Bullish / Bearish / Neutral / Uncertain]
+2. Confidence Score: [Low / Medium / High] + brief justification
+3. Key Supporting Evidence: (3 points max)
+4. Key Contradictions: (2 points max)
+5. Invalidation Conditions: what would change this view
+6. Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range
+   Predicted % move - NDX (Nasdaq 100): [+X.X% to +X.X%] - direction + range
+   Predicted % move - IWM (Russell 2000): [+X.X% to +X.X%] - direction + range
+7. Plain-English brief: 2-3 sentences a non-expert can understand
+8. Disclaimer: remind the reader this is not financial advice
+
+Make sure formatting matches exactly they want "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". Also include direction and range. Probably they want something like "-0.6% to -1.2%" but they said direction + range; they want direction as "+" or "-". We'll output e.g., "-0.8% to -1.5%" preceded by direction? It says "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". It seems they want something like " -0.8% to -1.5%" preceded by direction? The phrasing: "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". Perhaps they expect something like "-0.8% to -1.5%" preceded by a dash? Actually they wrote "- direction + range". Might be they want " -0.8% to -1.5%" where direction is negative. So we can write "-0.8% to -1.5%". But also they want direction included? The placeholder "+X.X%" indicates sign maybe plus or minus. So we should put something like "-0.6% to -1.2%". And then add " - bearish" before range? The spec: "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". It seems they want e.g., " -0.9% to -1.5% - bearish". Actually they wrote " - direction + range". Possibly they want " - bearish" then the range. Let's parse: "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". That suggests after the bracket they want something like "- bearish" and then the range? Or they want " - bearish" then the range? Hmm.
+
+Maybe they want something like:
+
+Predicted % move - SPX (S&P 500): [-1.0% to -0.4%] - bearish
+
+But they wrote "[+X.X% to +X.X%]" which includes plus sign sign but could be negative numbers as well. So we can just output e.g.:
+
+Predicted % move - SPX (S&P 500): [-0.8% to -1.2%] - bearish
+
+But they might want something like " -0.8% to -1.2%". The dash before direction maybe just a separator. I'll produce like:
+
+Predicted % move - SPX (S&P 500): [-0.9% to -1.4%] - bearish
+
+Similarly for NDX and IWM.
+
+Make sure 2-3 sentences plain English brief.
+
+Disclaimer: "This analysis is not financial advice."
+
+Now produce answer exactly with numbered items? They didn't specify numbering but they listed items. Likely we should output exactly as they want, each line starting with the label? They said "1. Weekly Regime: [Bullish / Bearish / Neutral / Uncertain]" So we need to output "Weekly Regime: Bearish". Probably just that line.
+
+Then "2. Confidence Score: [Low / Medium / High] + brief justification". So something like "Confidence Score: Medium (mixed macro and technical signals but bearish bias dominates)". Provide brief justification after maybe a space.
+
+Then "3. Key Supporting Evidence: (3 points max)" So we need to list up to 3 bullet points? They didn't specify bullet format. Could just list them separated by line breaks or semicolons. Provide up to 3 points. We'll write like:
+
+- Composite seasonal score of -0.60% across indices (slightly bearish).
+- Macro thesis flagged bearish with high confidence and headwinds (rising yields, strong dollar, credit stress).
+- Technical bias: majority of sector ETFs trading below EMA20 with neutral/ bearish classifications.
+
+That's three points.
+
+Then "4. Key Contradictions: (2 points max)" Provide up to 2 contradictions. We'll list:
+
+- Defensive sectors (XLF, XLV, XLE, XLI, XLRE) are above EMA20, showing bullish momentum.
+- Historical July data for SPX shows a bullish tendency, though midterm averages are mixed.
+
+That's two.
+
+Then "5. Invalidation Conditions: what would change this view". Provide a brief description.
+
+Then "6. Predicted % move - SPX (S&P 500): [value] - direction + range". So we need to embed direction and range. We can write: "Predicted % move - SPX (S&P 500): [-0.9% to -1.4%] - bearish". But they said direction + range maybe after dash? Let's follow: they wrote "- direction + range". So maybe they want something like "- bearish [-0.9% to -1.4%]". Actually they wrote " - direction + range". Could be they want " - bearish" then the range. Let's format as: "Predicted % move - SPX (S&P 500): [-0.9% to -1.4%] - bearish". That puts direction after dash then range? Actually they want direction and range inside the bracket? The placeholder "[+X.X% to +X.X%]" includes the range. So maybe they want just the range inside brackets, then after that, "- direction + range". That's confusing.
+
+Better: Provide exactly: "Predicted % move - SPX (S&P 500): [-0.9% to -1.4%] - bearish". That matches "direction + range": direction is "bearish" and range is the numbers. But they wrote "direction + range" maybe meaning after dash we indicate direction then range. So we can put "- bearish" after the bracket. But they also want range inside bracket. So we can do: "Predicted % move - SPX (S&P 500): [-0.9% to -1.4%] - bearish". That includes range inside brackets and direction after dash.
+
+Similarly for NDX and IWM.
+
+Thus:
+
+Predicted % move - SPX (S&P 500): [-0.9% to -1.4%] - bearish
+Predicted % move - NDX (Nasdaq 100): [-1.2% to -2.0%] - bearish
+Predicted % move - IWM (Russell 2000): [-1.5% to -2.5%] - bearish
+
+Make sure formatting exactly as they want: They said "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". Might want direction then range after dash? Actually they wrote "- direction + range". That could be they want a dash, then direction, then plus sign, then range? Hmm.
+
+Maybe they want something like "- bearish [-0.9% to -1.4%]". But they wrote "direction + range" which could be "bearish -0.9% to -1.4%"? Not sure.
+
+I'll output as: "Predicted % move - SPX (S&P 500): [-0.9% to -1.4%] - bearish". That includes direction after dash, but range is inside brackets.
+
+Similarly for NDX and IWM.
+
+Then "7. Plain-English brief: 2-3 sentences a non-expert can understand". Provide 2-3 sentences.
+
+Then "8. Disclaimer: remind the reader this is not financial advice". Provide that line.
+
+Make sure we only output these sections, no extra commentary.
+
+Let's craft answer.
+
+Structure:
+
+1. Weekly Regime: Bearish
+2. Confidence Score: Medium (mixed signals but bearish bias outweighs)
+3. Key Supporting Evidence:
+   - Composite seasonal score -0.60% across SPX, NDX, IWM indicating slight bearishness.
+   - Macro thesis flags bearish with high confidence; rising 10Y yields, strong dollar, credit stress.
+   - Technical data shows most sector ETFs below EMA20, with neutral/ bearish bias.
+4. Key Contradictions:
+   - Defensive sectors (XLF, XLV, XLE, XLI, XLRE) are above EMA20 showing bullish momentum.
+   - Historical July performance for SPX has been modestly bullish, though midterm averages are flat.
+5. Invalidation Conditions: A sharp decline in 10Y yields or a rapid drop in the US dollar, a sudden VIX spike, or better‑than‑expected earnings/A CPI surprise that reignites risk‑on sentiment would overturn the bearish view.
+6. Predicted % move - SPX (S&P 500): [-0.9% to -1.4%] - bearish
+   Predicted % move - NDX (Nasdaq 100): [-1.2% to -2.0%] - bearish
+   Predicted % move - IWM (Russell 2000): [-1.5% to -2.5%] - bearish
+7. Plain-English brief: The market outlook for the week of July 20‑26, 2026 leans bearish, driven by macro headwinds and technical weakness. While a few defensive groups are holding up, the overall momentum suggests modest downside.
+8. Disclaimer: This analysis is not financial advice.
+
+Check formatting: need exactly as they asked. They said "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". Our output includes bracket with numbers and dash then direction. They may want direction after dash then range? We have direction after

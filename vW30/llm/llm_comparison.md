@@ -7,8 +7,9 @@ R8 LLM Synthesis Operator
 ## Models Used
 
 - Gemini
+- OpenRouter
 
-All 1 successful model(s) were given the same shared prompt and the same evidence package, including:
+All 2 successful model(s) were given the same shared prompt and the same evidence package, including:
 
 - Almanac evidence
 - Macro / News evidence
@@ -27,24 +28,25 @@ All 1 successful model(s) were given the same shared prompt and the same evidenc
 Raw AI responses are saved in:
 
 - `vW30/llm/synthesis_gemini.txt`
+- `vW30/llm/synthesis_openrouter.txt`
 
 ---
 
 ## Comparison Table
 
-| Dimension | Gemini |
-|---|---|
-| Weekly Regime | Not found |
-| Confidence | Score |
-| SPX Direction | Not found |
-| SPX % Range | Not found |
-| NDX Direction | Not found |
-| NDX % Range | Not found |
-| IWM Direction | Not found |
-| IWM % Range | Not found |
-| Main Bullish / Stabilising Evidence | Not found |
-| Main Bearish Evidence | Not found |
-| Invalidation Condition | Not found |
+| Dimension | Gemini | OpenRouter |
+|---|---|---|
+| Weekly Regime | Not found | Low/Medium/High with justification. Then up to 3 key supporting evidence items, up to 2 key contradictions. Then invalidation conditions. Then predicted % move ranges for SPX, N... |
+| Confidence | Score | Low/Medium/High with justification. Then up to 3 key supporting evidence items, up to 2 key contradictions. Then invalidation conditions. Then predicted % move ranges for SPX, N... |
+| SPX Direction | Bearish / Down | Bullish / Up |
+| SPX % Range | -0.5% to -1.5% | [+X.X% to +X.X%] |
+| NDX Direction | Bearish / Down | Bullish / Up |
+| NDX % Range | -1.0% to -2.5% | [+X.X% to +X.X%] |
+| IWM Direction | Bearish / Down | Bullish / Up |
+| IWM % Range | -0.8% to -2.2% | [+X.X% to +X.X%] |
+| Main Bullish / Stabilising Evidence | Not found | (2 points max) |
+| Main Bearish Evidence | Not found | (3 points max) |
+| Invalidation Condition | Not found | what would change this view |
 
 ---
 
@@ -53,9 +55,9 @@ Raw AI responses are saved in:
 The models mostly agreed that:
 
 - Most models leaned toward a Uncertain weekly regime.
-- All models used the same R3/R4/R5 evidence package and shared prompt.
-- All models used the same R3/R4/R5 evidence package and shared prompt.
-- All models used the same R3/R4/R5 evidence package and shared prompt.
+- SPX direction consensus was closest to Bearish / Down.
+- NDX direction consensus was closest to Bearish / Down.
+- IWM direction consensus was closest to Bearish / Down.
 
 ---
 
@@ -63,8 +65,8 @@ The models mostly agreed that:
 
 The models disagreed on:
 
-- No major disagreement was detected from the structured fields.
-- Individual models weighted the same evidence differently.
+- Models assigned different confidence levels.
+- Predicted percentage ranges differed, especially around the size of the expected move.
 - Individual models weighted the same evidence differently.
 - Individual models weighted the same evidence differently.
 
@@ -78,9 +80,9 @@ Gemini suggested a **Not found** regime with **Score** confidence.
 
 Predicted ranges:
 
-- SPX: Not found
-- NDX: Not found
-- IWM: Not found
+- SPX: -0.5% to -1.5%
+- NDX: -1.0% to -2.5%
+- IWM: -0.8% to -2.2%
 
 Main reasoning:
 
@@ -89,6 +91,24 @@ Main reasoning:
 Key risk / invalidation:
 
 - Not found
+
+### OpenRouter
+
+OpenRouter suggested a **Low/Medium/High with justification. Then up to 3 key supporting evidence items, up to 2 key contradictions. Then invalidation conditions. Then predicted % move ranges for SPX, NDX, IWM with direction and range. Then plain-English brief 2-3 sentences. Then disclaimer. Must be exactly that structure** regime with **Low/Medium/High with justification. Then up to 3 key supporting evidence items, up to 2 key contradictions. Then invalidation conditions. Then predicted % move ranges for SPX, NDX, IWM with direction and range. Then plain-English brief 2-3 sentences. Then disclaimer. Must be exactly that structure** confidence.
+
+Predicted ranges:
+
+- SPX: [+X.X% to +X.X%]
+- NDX: [+X.X% to +X.X%]
+- IWM: [+X.X% to +X.X%]
+
+Main reasoning:
+
+- (3 points max)
+
+Key risk / invalidation:
+
+- what would change this view
 
 ---
 
@@ -99,24 +119,24 @@ The overall AI view is **Uncertain** with **Medium** confidence.
 The strongest common argument is that:
 
 - Most models leaned toward a Uncertain weekly regime.
-- All models used the same R3/R4/R5 evidence package and shared prompt.
-- All models used the same R3/R4/R5 evidence package and shared prompt.
+- SPX direction consensus was closest to Bearish / Down.
+- NDX direction consensus was closest to Bearish / Down.
 
 The biggest uncertainty is:
 
-- Not clear from available model outputs
+- what would change this view
 
 The most bullish model is:
 
-- Not clear from available model outputs
+- Gemini
 
 The most bearish model is:
 
-- Not clear from available model outputs
+- Gemini
 
 The most cautious model is:
 
-- Not clear from available model outputs
+- Gemini
 
 This output will be passed to R7 Human Score Analyst for final human judgement.
 
@@ -134,20 +154,20 @@ Suggested confidence:
 
 Suggested relative strength / weakness:
 
-1. SPX: Not found
-2. NDX: Not found
-3. IWM: Not found
+1. SPX: Bearish / Down
+2. NDX: Bearish / Down
+3. IWM: Bearish / Down
 
 Suggested predicted ranges for human review:
 
-- SPX: Not found
-- NDX: Not found
-- IWM: Not found
+- SPX: -0.5% to -1.5%
+- NDX: -1.0% to -2.5%
+- IWM: -0.8% to -2.2%
 
 Suggested key risk:
 
-- Not clear from available model outputs
+- what would change this view
 
 Suggested invalidation condition:
 
-- Not clear from available model outputs
+- what would change this view
