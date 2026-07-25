@@ -20,7 +20,7 @@
 |---|---|---|
 | R1 Product Owner | Sprint goal and acceptance criteria | Jiahai Xiong |
 | R2 Scrum Master | Standups, blockers, retrospective | Zhang Jiale |
-| R3 Almanac Agent | Seasonal and historical market analysis | |
+| R3 Almanac Agent | Seasonal and historical market analysis | Han Wei Lin | 
 | R4 Macro / News Agent | FedWatch, rates, oil, news, economic calendar | |
 | R5 Technical Agent | SPX, NDX, IWM charts and technical analysis | |
 | R6 LLM Synthesis Operator | Claude, ChatGPT, Gemini, DeepSeek comparison | |
