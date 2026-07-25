@@ -1,5 +1,0 @@
-pandas
-yfinance
-matplotlib
-PyMuPDF
-playwright
