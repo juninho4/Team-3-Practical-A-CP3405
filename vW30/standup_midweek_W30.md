@@ -4,7 +4,7 @@ Date: Wednesday
 | Role | Status | Blocker | R2 Action |
 |------|---------|----------|-----------|
 | R1 | Started | None | N/A |
-| R2 | Started | None | N/A |
+| R2 | Started | Unable to access the updated Sprint 8 instructions due to a broken link | Continued monitoring the team based on the available Sprint information and informed the team once the issue was identified |
 | R3 | Started | None | Confirmed Almanac will finish before Wednesday |
 | R4 | Blocked | Waiting for data | Contacted R4 and informed team, monitored progress |
 | R5 | Started | None | Confirmed Technical report deadline |
@@ -16,12 +16,15 @@ Date: Wednesday
 
 ## Summary
 
-All team members have been contacted individually.
+All team members were contacted individually.
 
-One blocker was identified:
-- R4 waiting for data.
+Two blockers were identified:
 
-Action taken:
-- Contacted R4 immediately.
-- Updated the team.
-- Continued monitoring progress.
+- R2 was unable to access the updated Sprint 8 instructions because the weekly task link was broken.
+- R4 was waiting for data.
+
+### Actions Taken
+
+- Continued monitoring the team's progress using the available Sprint information.
+- Contacted R4 immediately and monitored the blocker until progress resumed.
+- Updated the team on the identified blocker.
