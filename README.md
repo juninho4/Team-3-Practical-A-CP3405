@@ -27,4 +27,4 @@
 | R7 Human Score Analyst | Final judgement and human prediction | Juninho Chandra |
 | R8 LLM Synthesis Operator| Screenshots, actuals, evidence folder | Zhang Jiayu |
 | R9 GitHub & Integration Lead | GitHub repo, commits, README, release tag | Lin Yan |
-| R10 QA & Learning Log Lead | Scoring, LLM horserace, learning log | |
+| R10 QA & Learning Log Lead | Scoring, LLM horserace, learning log | | Chen Meng Hua |
