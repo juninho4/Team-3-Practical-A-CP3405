@@ -22,7 +22,7 @@
 | R2 Scrum Master | Standups, blockers, retrospective | Zhang Jiale |
 | R3 Almanac Agent | Seasonal and historical market analysis | Han Wei Lin | 
 | R4 Macro / News Agent | FedWatch, rates, oil, news, economic calendar | |
-| R5 Technical Agent | SPX, NDX, IWM charts and technical analysis | |
+| R5 Technical Agent | SPX, NDX, IWM charts and technical analysis |Jiawei Chen |
 | R6 Data & Evidence Lead | Claude, ChatGPT, Gemini, DeepSeek comparison | Li Haoyao |
 | R7 Human Score Analyst | Final judgement and human prediction | Juninho Chandra |
 | R8 LLM Synthesis Operator| Screenshots, actuals, evidence folder | Zhang Jiayu |
