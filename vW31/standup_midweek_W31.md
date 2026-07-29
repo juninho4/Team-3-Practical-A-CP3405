@@ -15,7 +15,7 @@
 | R7 | Waiting for R3, R4, R5 and R8 outputs | Cannot start Human Score until previous roles finish. Frontend work has started. | Blocker acknowledged. Will continue monitoring dependencies. |
 | R8 | Waiting for R3, R4 and R5 outputs | Cannot start before upstream roles complete. | Blocker acknowledged. Monitor dependency chain. |
 | R9 | Waiting for response | No update received yet. | Follow-up message sent. Waiting for reply. |
-| R10 | Not checked | No update yet. | Will follow up if required. |
+| R10 | Not checked | No update received yet. | Follow-up message sent. Waiting for reply.  |
 
 ## Summary
 
