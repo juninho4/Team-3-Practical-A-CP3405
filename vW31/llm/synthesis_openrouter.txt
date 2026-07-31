@@ -1,0 +1,111 @@
+We need to produce output in exactly that structure. Provide weekly regime, confidence score with brief justification, key supporting evidence (max 3 bullets), key contradictions (max 2 bullets), invalidation conditions, predicted % move ranges for SPX, NDX, IWM, plain-English brief (2-3 sentences), disclaimer.
+
+We have evidence from almanac (slightly bearish), macro (slightly bullish), technical (most securities above EMA20 for SPX, XLF, XLV, XLY etc. QQQ and NDX proxies bearish, IWM neutral bearish, tech XLC bearish). Overall mixture.
+
+We need to give predicted % move ranges. Should be based on synthesis: likely modest move, perhaps slight down for SPX? Considering almanac says slightly bearish at -0.68% composite, but macro suggests slight bullish. Technical shows SPX above EMA20, bullish bias. Could predict a slight positive move? Or maybe small range around flat. Provide ranges like +0.2% to +0.8% for SPX, -0.5% to +0.5% for NDX, -0.8% to -0.2% for IWM? Or something.
+
+We need to output exactly as required format.
+
+Structure:
+
+1. Weekly Regime: [Bullish / Bearish / Neutral / Uncertain]
+
+So we choose "Neutral" maybe? Or "Bearish"? The almanac says slightly bearish, macro bullish, technical mixed but overall leaning bullish for SPX and financials. I think overall regime might be "Neutral" with slight bearish nuance? The instruction: produce weekly market regime recommendation. Based on evidence, we can say "Neutral". Confidence maybe "Medium".
+
+2. Confidence Score: [Low / Medium / High] + brief justification.
+
+We'll say "Medium – mixed signals from seasonal, macro and technical data."
+
+3. Key Supporting Evidence: (3 points max). Provide bullet points.
+
+4. Key Contradictions: (2 points max).
+
+5. Invalidation Conditions: what would change view.
+
+6. Predicted % move - SPX: [+X.X% to +X.X%] - direction + range. Should specify direction and range? It says "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". Probably we need to include direction sign and range, e.g., "[+0.3% to +0.7%]" and note direction is upward? Or we can put "[+0.2% to +0.6%]" and indicate direction upward? The format: "[+X.X% to +X.X%]" includes plus signs, maybe they want both ends with plus sign? Might represent range. Example: "[+0.2% to +0.6%] - direction + range". They also add " - direction + range". That seems redundant. Could just provide range with plus signs indicating positive direction. For NDX and IWM maybe also ranges; they could be negative? For NDX they might be negative? They want format similarly: "[+X.X% to +X.X%]" possibly includes negative? If expecting negative they'd use "-". But they explicitly wrote "+" at start. Could still use negative numbers inside? Maybe they want sign included? Safer to follow format exactly: "[+0.4% to +0.8%]" etc. If we think bearish then maybe "[-0.5% to -0.1%]". But they wrote "+" before bracket; maybe they expect positive sign for direction, but if bearish we could write "[-0.5% to -0.1%]" which starts with "[" not "+". I'd better use positive range but indicate direction separately? Actually they say "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". So they want something like "[-0.3% to +0.2%]"? Not sure. I think we can output e.g., "[-0.2% to +0.2%]" but that starts with "[-0.2%" not "+". Better to output "[+0.0% to +0.4%]" indicating small positive bias. For NDX maybe "[-0.1% to +0.3%]"? But they'd want plus sign before bracket? Actually they wrote "[+X.X% to +X.X%]" indicating both ends have plus sign. So maybe they expect positive percentages only. If we think bearish we could still give a range that is slightly negative but they wouldn't allow negative? Might be okay to give negative numbers but the formatting includes plus sign placeholder? I'd output e.g., "[-0.3% to -0.1%]" but that doesn't start with "+". I could output "[+0.0% to +0.2%]" but that suggests upward. Hmm.
+
+Better to output something like "[-0.4% to +0.2%]"? But they said direction + range. Maybe they want a separate "direction" word? Actually they wrote "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". That seems ambiguous. Could be they want something like "[-0.5% to +0.2%]" and then "direction: slightly bearish"? No, they want format exactly: "[+X.X% to +X.X%]" - direction + range. Possibly they want something like "[-0.5% to +0.2%]" but preceded by plus sign? I'd output "[-0.5% to +0.2%]" but that doesn't match + placeholder.
+
+I think safest: provide positive ranges for all: e.g., SPX: "[+0.2% to +0.6%]" (slightly bullish). NDX: "[+0.0% to +0.4%]" (neutral). IWM: "[-0.1% to +0.3%]" but includes negative; maybe "[+0.0% to +0.4%]" as well. But they want direction? Could include "direction: slight upward". But they said "- direction + range". Might be they want to specify direction separate, but they gave placeholder. I think we can just put the range and then add "direction: slightly bullish" after? But they said output in exactly this structure, not extra text. So we must only fill the placeholders, not add extra words.
+
+Thus I think we must output exactly:
+
+Predicted % move - SPX (S&P 500): [+0.2% to +0.6%] - direction + range
+
+But we cannot add extra words; just fill the placeholder. So we should output:
+
+Predicted % move - SPX (S&P 500): [+0.2% to +0.6%] 
+
+Predicted % move - NDX (Nasdaq 100): [+0.0% to +0.4%] 
+
+Predicted % move - IWM (Russell 2000): [-0.1% to +0.2%]? But negative not allowed? Could use [+0.0% to +0.3%] maybe.
+
+But they said direction + range; maybe they want to indicate direction (e.g., "Bullish" or "Bearish") after the range? Actually they wrote "- direction + range". That could mean after the placeholder we need to write "direction" word and then "range"? Hmm.
+
+Maybe they want something like: "[+0.2% to +0.6%] - Bullish". But they said direction + range. Could be they want "direction" word then range? Actually they wrote "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". That seems like they want the placeholder to include the direction sign and range, and then after that they want the word "direction" and then "range"? I'm confused.
+
+Probably they want the placeholder to contain something like "[-0.5% to +0.2%]" and then after that add "Bearish" or "Bullish"? But they said "direction + range". Might be they want to output something like "Bullish [+0.2% to +0.6%]"? No.
+
+Given ambiguous, I'll follow literal: Provide the placeholder with a range, and then after that write "direction" word and then "range"? That seems weird.
+
+Better to output exactly as they described: "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". So we should output the placeholder filled, then a hyphen, then the word "direction", then a space, then "range"? That seems odd.
+
+Maybe they intend: after the placeholder, we need to write something like "Bullish" as direction, and then "range" is just the placeholder again? Actually maybe they want to output something like "[+0.2% to +0.6%] - Bullish". The phrase "direction + range" could mean we need to indicate direction (Bullish/Bearish) and then the range (the numbers). But they already included numbers in placeholder. I think they want the placeholder to contain the range, and then after that we write the direction word, and then the word "range"? That doesn't make sense.
+
+Probably they want something like: "Predicted % move - SPX (S&P 500): [+0.2% to +0.6%] - Bullish". But they said "direction + range". Could be they want to output direction after the placeholder, not "range". I think they want the placeholder to contain the range, and then we add the direction word after a hyphen. But they also wrote "+ range" maybe meaning we should also include the range again? I'm overthinking.
+
+Given constraints, I'll output:
+
+Predicted % move - SPX (S&P 500): [+0.2% to +0.6%] - Bullish
+
+Predicted % move - NDX (Nasdaq 100): [+0.0% to +0.4%] - Neutral
+
+Predicted % move - IWM (Russell 2000): [-0.1% to +0.2%] - Slightly Bearish
+
+But they said direction + range, not "- Bullish". Hmm.
+
+Maybe they want "direction" to be the word "Bullish" or "Bearish" and then "range" to be the numbers? But they already have numbers in placeholder. Could be they want "direction" word then the placeholder? Example: "Bullish [+0.2% to +0.6%]"? Actually they'd want "Bullish" then the range? The placeholder is before the hyphen. They wrote "Predicted % move - SPX (S&P 500): [+X.X% to +X.X%] - direction + range". So after the placeholder, there is " - direction + range". That could be interpreted as we need to fill "direction" and "range" placeholders. So we need to output something like "[+0.2% to +0.6%] - Bullish + range"? That seems weird.
+
+I think they want: "Predicted % move - SPX (S&P 500): [+0.2% to +0.6%] - Bullish". And maybe they consider "Bullish" as direction, and the range is already in placeholder. The " + range" might be just extra text describing that we are providing a range. I'll output direction word after hyphen.
+
+Thus:
+
+Predicted % move - SPX (S&P 500): [+0.2% to +0.6%] - Bullish
+
+Predicted % move - NDX (Nasdaq 100): [+0.0% to +0.4%] - Neutral
+
+Predicted % move - IWM (Russell 2000): [-0.1% to +0.2%] - Slightly Bearish
+
+But negative sign? Might be okay.
+
+Now produce plain-English brief: 2-3 sentences.
+
+Disclaimer: reminder not financial advice.
+
+Now produce final answer with exactly the structure, no extra commentary.
+
+Make sure each section is separate lines? They didn't specify formatting, but we can just output plain text with headings? Probably just plain lines.
+
+I'll output:
+
+Weekly Regime: Neutral
+
+Confidence Score: Medium – mixed signals across almanac, macro and technical indicators.
+
+Key Supporting Evidence:
+- Almanac’s midterm-year average shows a –0.68% composite bias for the week.
+- Macro dashboard points to a slightly bullish tilt (weaker dollar, falling VIX, credit support).
+- Technicals show SPX and several sector ETFs above EMA20, giving a bullish bias.
+
+Key Contradictions:
+- QQQ and IWM are below EMA20, hinting at weakness in tech and small‑caps.
+- Higher 10‑yr yields pressure rate‑sensitive assets, adding bearish pressure.
+
+Invalidation Conditions:
+- A sharp rise in the 10‑yr yield or a sudden dollar rebound.
+- VIX spikes above current levels or a surprise CPI surprise that lifts yields.
+- Major earnings miss that triggers a broad market sell‑off.
+
+Predicted % move - SPX (S&P 500): [+0.2% to +0.6%] - Bullish
+Predicted % move - NDX (Nasdaq 100): [+0.0% to +0.4%] - Neutral
+Predicted % move - I
