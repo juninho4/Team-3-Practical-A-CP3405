@@ -4,18 +4,18 @@
 
 ## Mid-week Check-in
 
-| Role | Status | R2 Action |
-|------|---------|-----------|
-| R1 | Completed Sprint Goal on Monday | Sprint Goal confirmed. |
-| R2 | In Progress| Contacted all team members and monitored progress. |
-| R3 | Not Started| Asked R3 to start and finish the task as soon as possible. |
-| R4 | Waiting for response| Follow-up message sent. Waiting for reply. |
-| R5 | Waiting for scheduled automation | Confirmed the schedule with R5. |
-| R6 | Waiting for response| Follow-up message sent. Waiting for reply. |
-| R7 | Waiting for R3, R4, R5 and R8 outputs| Blocker acknowledged. Will continue monitoring dependencies. |
-| R8 | Waiting for R3, R4 and R5 outputs | Blocker acknowledged. Monitor dependency chain. |
-| R9 | Waiting for response | Follow-up message sent. Waiting for reply. |
-| R10 | Not checked| Follow-up message sent. Waiting for reply.  |
+| Role | Status | Blockers | Demo Ready |
+|------|--------|----------|------------|
+| R1 | In Progress | None | Yes |
+| R2 | In Progress | None | Yes |
+| R3 | Started | None | Yes |
+| R4 | In Progress | Waiting for a reply | No |
+| R5 | Started | None | Yes |
+| R6 | In Progress | None | Yes |
+| R7 | Started | None | Yes |
+| R8 | Waiting for R3–R5 | None | Yes |
+| R9 | Waiting for final merge | None | Yes |
+| R10 | In Progress | None | Yes |
 
 ## Summary
 
