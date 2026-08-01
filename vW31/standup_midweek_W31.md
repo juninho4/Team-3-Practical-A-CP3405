@@ -21,6 +21,5 @@
 
 - Sprint Goal was completed by R1 on Monday.
 - Most downstream roles are currently waiting for outputs from R3, R4 and R5.
-- R3 has not started the assigned task and has been reminded to complete it as soon as possible.
-- R4, R6 and R9 have not responded yet. Follow-up messages have been sent.
+- R3 is started.
 - The dependency chain is being monitored to ensure R8 and R7 can begin their work once upstream tasks are completed.
