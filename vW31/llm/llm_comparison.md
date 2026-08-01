@@ -1,153 +1,66 @@
-# LLM Comparison vW31
-
-## Role
-
-R8 LLM Synthesis Operator
+# LLM Comparison 2026-WXX
 
 ## Models Used
 
-- OpenRouter
+- Model 1
+- Model 2
 
-All 1 successful model(s) were given the same shared prompt and the same evidence package, including:
-
-- Almanac evidence
-- Macro / News evidence
-- Technical evidence
+Note: Only two LLM responses were provided in this version. If the team also uses ChatGPT, Claude, Gemini, and DeepSeek, the missing model outputs should be added later.
 
 ---
 
-## Shared Prompt
+## Prediction Comparison
 
-- `vW31/llm/shared_prompt.md`
-
----
-
-## Raw LLM Responses
-
-Raw AI responses are saved in:
-
-- `vW31/llm/synthesis_openrouter.txt`
+| Model | Weekly Regime | Confidence | SPX Prediction | NDX Prediction | IWM Prediction | Main Reason |
+|---|---|---|---:|---:|---:|---|
+| Model 1 | Neutral | Medium | +0.0% to +1.0% | -1.0% to +0.5% | -1.0% to +0.5% | Macro signals were bullish, but seasonal weakness and weak QQQ/IWM technicals limited upside. |
+| Model 2 | Uncertain | Medium | -0.8% to +1.2% | -1.8% to +0.6% | -1.6% to +0.7% | The three pillars did not align clearly: macro was slightly bullish, almanac was slightly bearish, and technicals were mixed. |
 
 ---
 
-## Comparison Table
+## Agreement
 
-| Dimension | OpenRouter |
-|---|---|
-| Weekly Regime | , confidence score with brief justification, key supporting evidence (max 3 bullets), key contradictions (max 2 bullets), invalidation conditions, predicted % move ranges for SP... |
-| Confidence | with brief justification, key supporting evidence (max 3 bullets), key contradictions (max 2 bullets), invalidation conditions, predicted % move ranges for SPX, NDX, IWM, plain-... |
-| SPX Direction | Bullish / Up |
-| SPX % Range | [+X.X% to +X.X%] |
-| NDX Direction | Bullish / Up |
-| NDX % Range | [+0.0% to +0.4%] |
-| IWM Direction | Neutral / Flat |
-| IWM % Range | [-0.1% to +0.2%] |
-| Main Bullish / Stabilising Evidence | (2 points max). |
-| Main Bearish Evidence | (3 points max). Provide bullet points. |
-| Invalidation Condition | what would change view. |
+Both models agreed that the market outlook is not strongly bullish or bearish.
+
+The main agreement points were:
+
+- Macro conditions were slightly supportive because of weaker USD, lower VIX, supportive credit, and cyclical sector strength.
+- Seasonal / almanac evidence was slightly bearish.
+- SPX looked stronger than NDX and IWM.
+- QQQ / NDX and IWM showed weaker technical conditions because they were below their 20-day EMA.
 
 ---
 
-## Agreement Between Models
+## Disagreement
 
-The models mostly agreed that:
+The main difference was the strength of the final market call.
 
-- Most models leaned toward a Uncertain weekly regime.
-- SPX direction consensus was closest to Bullish / Up.
-- NDX direction consensus was closest to Bullish / Up.
-- IWM direction consensus was closest to Neutral / Flat.
+- Model 1 gave a clearer **Neutral** regime and expected SPX to be slightly positive.
+- Model 2 used **Uncertain** because the almanac, macro, and technical signals conflicted more strongly.
 
----
-
-## Disagreement Between Models
-
-The models disagreed on:
-
-- No major disagreement was detected from the structured fields.
-- Individual models weighted the same evidence differently.
-- Individual models weighted the same evidence differently.
-- Individual models weighted the same evidence differently.
+Model 2 also gave wider prediction ranges, which means it expected more choppy movement and less confidence in a clear direction.
 
 ---
 
-## Model-by-Model Notes
+## Most Credible Model
 
-### OpenRouter
+The most credible model is **Model 2**.
 
-OpenRouter suggested a **, confidence score with brief justification, key supporting evidence (max 3 bullets), key contradictions (max 2 bullets), invalidation conditions, predicted % move ranges for SPX, NDX, IWM, plain-English brief (2-3 sentences), disclaimer** regime with **with brief justification, key supporting evidence (max 3 bullets), key contradictions (max 2 bullets), invalidation conditions, predicted % move ranges for SPX, NDX, IWM, plain-English brief (2-3 sentences), disclaimer** confidence.
-
-Predicted ranges:
-
-- SPX: [+X.X% to +X.X%]
-- NDX: [+0.0% to +0.4%]
-- IWM: [-0.1% to +0.2%]
-
-Main reasoning:
-
-- (3 points max). Provide bullet points.
-
-Key risk / invalidation:
-
-- what would change view.
+The reason is that Model 2 gave a more balanced explanation. It did not rely too much on only one signal. It clearly explained that macro was slightly bullish, seasonal data was slightly bearish, and technical signals were split between SPX strength and QQQ/IWM weakness.
 
 ---
 
-## R8 Synthesis Summary
+## R6 Summary for R7
 
-The overall AI view is **Uncertain** with **Medium** confidence.
+The LLM consensus suggests a mixed and uncertain market environment.
 
-The strongest common argument is that:
+SPX has the best chance to hold up or move slightly higher, while NDX and IWM may underperform because their technical signals are weaker.
 
-- Most models leaned toward a Uncertain weekly regime.
-- SPX direction consensus was closest to Bullish / Up.
-- NDX direction consensus was closest to Bullish / Up.
+Overall AI consensus:
 
-The biggest uncertainty is:
+- SPX: neutral to slightly bullish
+- NDX: neutral to slightly bearish
+- IWM: neutral to slightly bearish
+- Confidence: Medium
 
-- what would change view.
-
-The most bullish model is:
-
-- OpenRouter
-
-The most bearish model is:
-
-- OpenRouter
-
-The most cautious model is:
-
-- OpenRouter
-
-This output will be passed to R7 Human Score Analyst for final human judgement.
-
----
-
-## R8 Recommendation to R7
-
-Suggested regime for human review:
-
-**Uncertain**
-
-Suggested confidence:
-
-**Medium**
-
-Suggested relative strength / weakness:
-
-1. SPX: Bullish / Up
-2. NDX: Bullish / Up
-3. IWM: Neutral / Flat
-
-Suggested predicted ranges for human review:
-
-- SPX: [+X.X% to +X.X%]
-- NDX: [+0.0% to +0.4%]
-- IWM: [-0.1% to +0.2%]
-
-Suggested key risk:
-
-- what would change view.
-
-Suggested invalidation condition:
-
-- what would change view.
+This result should be used as supporting evidence for R7’s human score and final team prediction.
