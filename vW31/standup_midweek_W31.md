@@ -4,7 +4,7 @@
 
 ## Mid-week Check-in
 
-| Role | Status | Blockers | Demo Ready |
+| Role | Status | Blocker | Demo Ready |
 |------|--------|----------|------------|
 | R1 | In Progress | None | Yes |
 | R2 | In Progress | None | Yes |
