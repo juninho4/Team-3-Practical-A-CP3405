@@ -4,12 +4,12 @@
 
 ## Mid-week Check-in
 
-| Role | Status | Blocker | Demo Ready |
+| Role | Status |  | Demo Ready |
 |------|--------|----------|------------|
 | R1 | In Progress | None | Yes |
 | R2 | In Progress | None | Yes |
 | R3 | Started | None | Yes |
-| R4 | In Progress | Waiting for a reply | No |
+| R4 | In Progress | Waiting for a reply(Blocker) | Waiting for a reply |
 | R5 | Started | None | Yes |
 | R6 | In Progress | None | Yes |
 | R7 | Started | None | Yes |
