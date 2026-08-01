@@ -5,7 +5,7 @@
 ## Mid-week Check-in
 
 | Role | Status | R2 Action |
-|------|---------|----------|-----------|
+|------|---------|-----------|
 | R1 | Completed Sprint Goal on Monday | Sprint Goal confirmed. |
 | R2 | In Progress| Contacted all team members and monitored progress. |
 | R3 | Not Started| Asked R3 to start and finish the task as soon as possible. |
