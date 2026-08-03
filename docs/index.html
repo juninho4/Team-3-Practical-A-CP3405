@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Team 3 weekly market intelligence dashboard">
+  <title>Team 3 Market Intelligence</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">CP3405 · Design Thinking 3 · Team 3</p>
+        <h1>Market Intelligence Dashboard</h1>
+        <p class="hero-copy">
+          Automated weekly evidence from Almanac, macro, technical analysis and multi-model AI synthesis.
+        </p>
+      </div>
+      <div class="week-panel" aria-label="Current reporting week">
+        <span>Current release</span>
+        <strong id="week">Loading…</strong>
+        <small id="generated-at">Waiting for pipeline data</small>
+      </div>
+    </header>
+
+    <main>
+      <section class="overview-grid" aria-label="Weekly overview">
+        <article class="metric-card">
+          <span class="metric-label">Weekly regime</span>
+          <strong id="regime">Loading…</strong>
+          <p>Combined R8 model view</p>
+        </article>
+        <article class="metric-card">
+          <span class="metric-label">Confidence</span>
+          <strong id="confidence">Loading…</strong>
+          <p>Consensus confidence level</p>
+        </article>
+        <article class="metric-card">
+          <span class="metric-label">Pipeline</span>
+          <strong id="pipeline-status">Loading…</strong>
+          <p id="provider-count">Checking AI providers</p>
+        </article>
+      </section>
+
+      <section class="section-block">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Final weekly view</p>
+            <h2>Index predictions</h2>
+          </div>
+        </div>
+        <div class="prediction-grid" id="prediction-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="section-block">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Resilient API workflow</p>
+            <h2>AI provider status</h2>
+          </div>
+          <span class="legend"><i class="dot success"></i>Success <i class="dot failed"></i>Failed</span>
+        </div>
+        <div class="provider-grid" id="provider-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="section-block">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Evidence chain</p>
+            <h2>R3–R8 analysis</h2>
+          </div>
+        </div>
+        <div class="evidence-grid">
+          <article class="evidence-card">
+            <span class="role-badge">R3</span>
+            <h3>Almanac</h3>
+            <p id="r3-summary">Loading…</p>
+          </article>
+          <article class="evidence-card">
+            <span class="role-badge">R4</span>
+            <h3>Macro &amp; News</h3>
+            <p id="r4-summary">Loading…</p>
+          </article>
+          <article class="evidence-card">
+            <span class="role-badge">R5</span>
+            <h3>Technical</h3>
+            <p id="r5-summary">Loading…</p>
+          </article>
+          <article class="evidence-card featured">
+            <span class="role-badge">R8</span>
+            <h3>LLM Synthesis</h3>
+            <p id="r8-summary">Loading…</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="source-strip">
+        <div>
+          <p class="section-kicker">Audit trail</p>
+          <h2>Weekly source files</h2>
+          <p id="source-files">Loading file information…</p>
+        </div>
+        <a id="source-link" class="button-link" href="#" hidden>Open this week on GitHub</a>
+      </section>
+
+      <div id="load-error" class="error-panel" role="alert" hidden>
+        <strong>Dashboard data could not be loaded.</strong>
+        <p>
+          Run the pipeline or start a local web server from the repository with
+          <code>python -m http.server 8000 --directory docs</code>.
+        </p>
+      </div>
+    </main>
+
+    <footer>
+      <span>Team 3 Market Intelligence</span>
+      <span>Data generated automatically from the selected <code>vWxx</code> folder.</span>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

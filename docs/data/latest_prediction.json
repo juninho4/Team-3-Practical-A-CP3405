@@ -1,0 +1,49 @@
+{
+  "week": "Awaiting first run",
+  "generated_at": "The scheduled pipeline will replace this file automatically.",
+  "pipeline_status": "No generated weekly data yet",
+  "regime": "Pending",
+  "confidence": "Pending",
+  "predictions": {
+    "SPX": {"direction": "Pending", "range": "Pending"},
+    "NDX": {"direction": "Pending", "range": "Pending"},
+    "IWM": {"direction": "Pending", "range": "Pending"}
+  },
+  "models": {
+    "groq": {
+      "name": "Groq",
+      "model": "openai/gpt-oss-120b",
+      "status": "unavailable",
+      "error_code": "",
+      "detail": "Waiting for the first pipeline run."
+    },
+    "gemini": {
+      "name": "Gemini",
+      "model": "gemini-3.5-flash",
+      "status": "unavailable",
+      "error_code": "",
+      "detail": "Waiting for the first pipeline run."
+    },
+    "openrouter": {
+      "name": "OpenRouter",
+      "model": "openrouter/free",
+      "status": "unavailable",
+      "error_code": "",
+      "detail": "Waiting for the first pipeline run."
+    }
+  },
+  "summaries": {
+    "r3": "The R3 Almanac summary will appear after the pipeline runs.",
+    "r4": "The R4 macro summary will appear after the pipeline runs.",
+    "r5": "The R5 technical summary will appear after the pipeline runs.",
+    "r8": "The R8 multi-model synthesis will appear after the pipeline runs."
+  },
+  "evidence": {
+    "r3_file": "",
+    "r4_file": "",
+    "r5_files": [],
+    "llm_comparison": "",
+    "api_call_log": ""
+  },
+  "source_url": ""
+}
