@@ -1,49 +1,74 @@
 {
-  "week": "Awaiting first run",
-  "generated_at": "The scheduled pipeline will replace this file automatically.",
-  "pipeline_status": "No generated weekly data yet",
-  "regime": "Pending",
-  "confidence": "Pending",
+  "week": "vW32",
+  "generated_at": "2026-08-03T09:50:41+08:00",
+  "pipeline_status": "Completed with 2/3 AI providers",
+  "regime": "Neutral",
+  "confidence": "Medium",
   "predictions": {
-    "SPX": {"direction": "Pending", "range": "Pending"},
-    "NDX": {"direction": "Pending", "range": "Pending"},
-    "IWM": {"direction": "Pending", "range": "Pending"}
+    "SPX": {
+      "direction": "Bearish / Down",
+      "range": "[-1.0% to +0.5%]"
+    },
+    "NDX": {
+      "direction": "Bearish / Down",
+      "range": "[-1.8% to +0.2%]"
+    },
+    "IWM": {
+      "direction": "Bearish / Down",
+      "range": "[-1.5% to +0.5%]"
+    }
   },
   "models": {
     "groq": {
       "name": "Groq",
       "model": "openai/gpt-oss-120b",
-      "status": "unavailable",
-      "error_code": "",
-      "detail": "Waiting for the first pipeline run."
+      "status": "failed",
+      "error_code": "HTTP_403 / 1010",
+      "detail": "HTTP 403: error code: 1010"
     },
     "gemini": {
       "name": "Gemini",
       "model": "gemini-3.5-flash",
-      "status": "unavailable",
+      "status": "success",
       "error_code": "",
-      "detail": "Waiting for the first pipeline run."
+      "detail": ""
     },
     "openrouter": {
       "name": "OpenRouter",
       "model": "openrouter/free",
-      "status": "unavailable",
+      "status": "success",
       "error_code": "",
-      "detail": "Waiting for the first pipeline run."
+      "detail": ""
     }
   },
   "summaries": {
-    "r3": "The R3 Almanac summary will appear after the pipeline runs.",
-    "r4": "The R4 macro summary will appear after the pipeline runs.",
-    "r5": "The R5 technical summary will appear after the pipeline runs.",
-    "r8": "The R8 multi-model synthesis will appear after the pipeline runs."
+    "r3": "Required R3 scope: seasonal patterns, historical analogues, and calendar-based signals Almanac verdict: Bearish",
+    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: +3",
+    "r5": "R5 produced 15 CSV file(s) with 3528 data row(s). Technical bias mix: Unknown: 3514, Neutral bearish: 6, Bullish: 5, Bearish: 2, Neutral bullish: 1.",
+    "r8": "The overall AI view is Neutral with Medium confidence. The strongest common argument is that: - Most models leaned toward a Neutral weekly regime. - SPX direction consensus was closest to Bearish / Down. - NDX direction consensus was closest to Bearish / Down. The biggest uncertainty is: - Not clear from available model outputs The most bullish model is: - Gemini The most bearish model is: - Gemini The most cautious model is: - Gemini This output will be passed to R7 Human Score Analyst for final human judgement."
   },
   "evidence": {
-    "r3_file": "",
-    "r4_file": "",
-    "r5_files": [],
-    "llm_comparison": "",
-    "api_call_log": ""
+    "r3_file": "vW32/agents/almanac/vW32_almanac.md",
+    "r4_file": "vW32/agents/macro_agent_output_W32.md",
+    "r5_files": [
+      "IWM.csv",
+      "QQQ.csv",
+      "SPY.csv",
+      "XLB.csv",
+      "XLC.csv",
+      "XLE.csv",
+      "XLF.csv",
+      "XLI.csv",
+      "XLK.csv",
+      "XLP.csv",
+      "XLRE.csv",
+      "XLU.csv",
+      "XLV.csv",
+      "XLY.csv",
+      "technical_agent_output_W32.csv"
+    ],
+    "llm_comparison": "vW32/llm/llm_comparison.md",
+    "api_call_log": "vW32/llm/api_call_log.md"
   },
-  "source_url": ""
+  "source_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/tree/main/vW32"
 }
