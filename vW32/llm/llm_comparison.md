@@ -36,17 +36,17 @@ Raw AI responses are saved in:
 
 | Dimension | Gemini | OpenRouter |
 |---|---|---|
-| Weekly Regime | Neutral | Not found |
-| Confidence | Medium | Not found |
-| SPX Direction | Bearish / Down | Not found |
-| SPX % Range | [-1.0% to +0.5%] | Not found |
-| NDX Direction | Bearish / Down | Not found |
-| NDX % Range | [-1.8% to +0.2%] | Not found |
-| IWM Direction | Bearish / Down | Not found |
-| IWM % Range | [-1.5% to +0.5%] | Not found |
-| Main Bullish / Stabilising Evidence | Not found | Not found |
-| Main Bearish Evidence | Not found | Not found |
-| Invalidation Condition | Not found | Not found |
+| Weekly Regime | Not found | Bullish |
+| Confidence | Score | Medium – almanac bearish signal has medium confidence, but macro and technical evidence are strongly bullish |
+| SPX Direction | Bullish / Up | Bullish / Up |
+| SPX % Range | [+0.50% to +1.50%] | [+2.0% to +4.0%] |
+| NDX Direction | Bullish / Up | Bullish / Up |
+| NDX % Range | [+0.75% to +2.00%] | [+3.0% to +5.0%] |
+| IWM Direction | Bullish / Up | Bullish / Up |
+| IWM % Range | [+0.40% to +1.80%] | [+1.5% to +3.0%] |
+| Main Bullish / Stabilising Evidence | Not found | Seasonal almanac predicts a bearish August midterm pattern (-0.4% average) conflicting with bullish macro/tech.<br>Some sectors (Energy, Utilities, Real Estate) show bearish or ... |
+| Main Bearish Evidence | Not found | Macro score +5 with high confidence, lower 10‑year yields and falling VIX boost risk appetite.<br>Technical bias bullish across SPY, QQQ, IWM and most sector ETFs (all above EMA... |
+| Invalidation Condition | Not found | 10‑year Treasury yield spikes above 5% or US dollar rallies sharply, reversing the low‑yield environment.<br>VIX jumps above 20 or credit spreads widen dramatically, signaling r... |
 
 ---
 
@@ -54,10 +54,10 @@ Raw AI responses are saved in:
 
 The models mostly agreed that:
 
-- Most models leaned toward a Neutral weekly regime.
-- SPX direction consensus was closest to Bearish / Down.
-- NDX direction consensus was closest to Bearish / Down.
-- IWM direction consensus was closest to Bearish / Down.
+- Most models leaned toward a Uncertain weekly regime.
+- SPX direction consensus was closest to Bullish / Up.
+- NDX direction consensus was closest to Bullish / Up.
+- IWM direction consensus was closest to Bullish / Up.
 
 ---
 
@@ -66,7 +66,7 @@ The models mostly agreed that:
 The models disagreed on:
 
 - Models did not fully agree on the weekly regime label.
-- Individual models weighted the same evidence differently.
+- Predicted percentage ranges differed, especially around the size of the expected move.
 - Individual models weighted the same evidence differently.
 - Individual models weighted the same evidence differently.
 
@@ -76,13 +76,13 @@ The models disagreed on:
 
 ### Gemini
 
-Gemini suggested a **Neutral** regime with **Medium** confidence.
+Gemini suggested a **Not found** regime with **Score** confidence.
 
 Predicted ranges:
 
-- SPX: [-1.0% to +0.5%]
-- NDX: [-1.8% to +0.2%]
-- IWM: [-1.5% to +0.5%]
+- SPX: [+0.50% to +1.50%]
+- NDX: [+0.75% to +2.00%]
+- IWM: [+0.40% to +1.80%]
 
 Main reasoning:
 
@@ -94,41 +94,41 @@ Key risk / invalidation:
 
 ### OpenRouter
 
-OpenRouter suggested a **Not found** regime with **Not found** confidence.
+OpenRouter suggested a **Bullish** regime with **Medium – almanac bearish signal has medium confidence, but macro and technical evidence are strongly bullish** confidence.
 
 Predicted ranges:
 
-- SPX: Not found
-- NDX: Not found
-- IWM: Not found
+- SPX: [+2.0% to +4.0%]
+- NDX: [+3.0% to +5.0%]
+- IWM: [+1.5% to +3.0%]
 
 Main reasoning:
 
-- Not found
+- Macro score +5 with high confidence, lower 10‑year yields and falling VIX boost risk appetite.<br>Technical bias bullish across SPY, QQQ, IWM and most sector ETFs (all above EMA20).<br>Seasonal almanac shows only a modest bearish tilt (-0.94% composite) with medium confidence.
 
 Key risk / invalidation:
 
-- Not found
+- 10‑year Treasury yield spikes above 5% or US dollar rallies sharply, reversing the low‑yield environment.<br>VIX jumps above 20 or credit spreads widen dramatically, signaling risk‑off sentiment.<br>New negative macro data (e.g., higher CPI, weak jobs) that undermines the bullish thesis.
 
 ---
 
 ## R8 Synthesis Summary
 
-The overall AI view is **Neutral** with **Medium** confidence.
+The overall AI view is **Uncertain** with **Medium** confidence.
 
 The strongest common argument is that:
 
-- Most models leaned toward a Neutral weekly regime.
-- SPX direction consensus was closest to Bearish / Down.
-- NDX direction consensus was closest to Bearish / Down.
+- Most models leaned toward a Uncertain weekly regime.
+- SPX direction consensus was closest to Bullish / Up.
+- NDX direction consensus was closest to Bullish / Up.
 
 The biggest uncertainty is:
 
-- Not clear from available model outputs
+- 10‑year Treasury yield spikes above 5% or US dollar rallies sharply, reversing the low‑yield environment.<br>VIX jumps above 20 or credit spreads widen dramatically, signaling risk‑off sentiment.<br>New negative macro data (e.g., higher CPI, weak jobs) that undermines the bullish thesis.
 
 The most bullish model is:
 
-- Gemini
+- OpenRouter
 
 The most bearish model is:
 
@@ -146,7 +146,7 @@ This output will be passed to R7 Human Score Analyst for final human judgement.
 
 Suggested regime for human review:
 
-**Neutral**
+**Uncertain**
 
 Suggested confidence:
 
@@ -154,20 +154,20 @@ Suggested confidence:
 
 Suggested relative strength / weakness:
 
-1. SPX: Bearish / Down
-2. NDX: Bearish / Down
-3. IWM: Bearish / Down
+1. SPX: Bullish / Up
+2. NDX: Bullish / Up
+3. IWM: Bullish / Up
 
 Suggested predicted ranges for human review:
 
-- SPX: [-1.0% to +0.5%]
-- NDX: [-1.8% to +0.2%]
-- IWM: [-1.5% to +0.5%]
+- SPX: [+0.50% to +1.50%]
+- NDX: [+0.75% to +2.00%]
+- IWM: [+0.40% to +1.80%]
 
 Suggested key risk:
 
-- Not clear from available model outputs
+- 10‑year Treasury yield spikes above 5% or US dollar rallies sharply, reversing the low‑yield environment.<br>VIX jumps above 20 or credit spreads widen dramatically, signaling risk‑off sentiment.<br>New negative macro data (e.g., higher CPI, weak jobs) that undermines the bullish thesis.
 
 Suggested invalidation condition:
 
-- Not clear from available model outputs
+- 10‑year Treasury yield spikes above 5% or US dollar rallies sharply, reversing the low‑yield environment.<br>VIX jumps above 20 or credit spreads widen dramatically, signaling risk‑off sentiment.<br>New negative macro data (e.g., higher CPI, weak jobs) that undermines the bullish thesis.

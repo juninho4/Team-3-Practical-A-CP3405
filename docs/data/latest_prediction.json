@@ -1,21 +1,21 @@
 {
   "week": "vW32",
-  "generated_at": "2026-08-03T09:50:41+08:00",
+  "generated_at": "2026-08-08T07:05:52+08:00",
   "pipeline_status": "Completed with 2/3 AI providers",
-  "regime": "Neutral",
+  "regime": "Uncertain",
   "confidence": "Medium",
   "predictions": {
     "SPX": {
-      "direction": "Bearish / Down",
-      "range": "[-1.0% to +0.5%]"
+      "direction": "Bullish / Up",
+      "range": "[+0.50% to +1.50%]"
     },
     "NDX": {
-      "direction": "Bearish / Down",
-      "range": "[-1.8% to +0.2%]"
+      "direction": "Bullish / Up",
+      "range": "[+0.75% to +2.00%]"
     },
     "IWM": {
-      "direction": "Bearish / Down",
-      "range": "[-1.5% to +0.5%]"
+      "direction": "Bullish / Up",
+      "range": "[+0.40% to +1.80%]"
     }
   },
   "models": {
@@ -43,9 +43,9 @@
   },
   "summaries": {
     "r3": "Required R3 scope: seasonal patterns, historical analogues, and calendar-based signals Almanac verdict: Bearish",
-    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: +3",
-    "r5": "R5 produced 15 CSV file(s) with 3528 data row(s). Technical bias mix: Unknown: 3514, Neutral bearish: 6, Bullish: 5, Bearish: 2, Neutral bullish: 1.",
-    "r8": "The overall AI view is Neutral with Medium confidence. The strongest common argument is that: - Most models leaned toward a Neutral weekly regime. - SPX direction consensus was closest to Bearish / Down. - NDX direction consensus was closest to Bearish / Down. The biggest uncertainty is: - Not clear from available model outputs The most bullish model is: - Gemini The most bearish model is: - Gemini The most cautious model is: - Gemini This output will be passed to R7 Human Score Analyst for final human judgement."
+    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: +5",
+    "r5": "R5 produced 15 CSV file(s) with 3528 data row(s). Technical bias mix: Unknown: 3514, Bullish: 10, Neutral bearish: 2, Neutral bullish: 1, Bearish: 1.",
+    "r8": "The overall AI view is Uncertain with Medium confidence. The strongest common argument is that: - Most models leaned toward a Uncertain weekly regime. - SPX direction consensus was closest to Bullish / Up. - NDX direction consensus was closest to Bullish / Up. The biggest uncertainty is: - 10‑year Treasury yield spikes above 5% or US dollar rallies sharply, reversing the low‑yield environment.<br>VIX jumps above 20 or credit spreads widen dramatically, signaling risk‑off sentiment.<br>New negative macro data (e.g.…"
   },
   "evidence": {
     "r3_file": "vW32/agents/almanac/vW32_almanac.md",

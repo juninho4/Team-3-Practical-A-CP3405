@@ -1,1 +1,18 @@
-User Safety: safe
+1. Weekly Regime: Bullish  
+2. Confidence Score: Medium – almanac bearish signal has medium confidence, but macro and technical evidence are strongly bullish.  
+3. Key Supporting Evidence:  
+- Macro score +5 with high confidence, lower 10‑year yields and falling VIX boost risk appetite.  
+- Technical bias bullish across SPY, QQQ, IWM and most sector ETFs (all above EMA20).  
+- Seasonal almanac shows only a modest bearish tilt (-0.94% composite) with medium confidence.  
+4. Key Contradictions:  
+- Seasonal almanac predicts a bearish August midterm pattern (-0.4% average) conflicting with bullish macro/tech.  
+- Some sectors (Energy, Utilities, Real Estate) show bearish or neutral technical signals, indicating sector divergence.  
+5. Invalidation Conditions:  
+- 10‑year Treasury yield spikes above 5% or US dollar rallies sharply, reversing the low‑yield environment.  
+- VIX jumps above 20 or credit spreads widen dramatically, signaling risk‑off sentiment.  
+- New negative macro data (e.g., higher CPI, weak jobs) that undermines the bullish thesis.  
+6. Predicted % move - SPX (S&P 500): [+2.0% to +4.0%] - bullish  
+   Predicted % move - NDX (Nasdaq 100): [+3.0% to +5.0%] - bullish  
+   Predicted % move - IWM (Russell 2000): [+1.5% to +3.0%] - bullish  
+7. Plain-English brief: The market is expected to rise this week as lower yields, low volatility and strong sector rotation support risk‑on sentiment, outweighing the historically weak August pattern.  
+8. Disclaimer: This analysis is for informational purposes only and does not constitute financial advice.

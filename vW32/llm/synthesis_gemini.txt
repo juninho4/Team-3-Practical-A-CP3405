@@ -1,26 +1,30 @@
-1. **Weekly Regime**: Neutral
+### 1. Weekly Regime
+Bullish
 
-2. **Confidence Score**: Medium
-The score is capped at Medium due to a stark divergence between a robust macro dashboard (+3 score, falling VIX, weaker US Dollar) and bearish seasonal headwinds (August midterm composite of -0.94%). Furthermore, index-level technicals are split, with the S&P 500 remaining bullish while Nasdaq and Russell 2000 proxies struggle below their short-term averages.
+### 2. Confidence Score
+High — Strong alignment between powerful upward price momentum (SPY, QQQ, and IWM all closing well above their 20, 50, and 200-day EMAs) and highly supportive macro conditions (+5 macro score) easily overrides the historical seasonal headwinds.
 
-3. **Key Supporting Evidence**:
-   * **Technical Divergence**: While SPY remains technically bullish above its EMA20 (747.03 vs. 743.03), both QQQ (687.99) and IWM (291.20) closed the week below their respective EMA20s, signaling rotation and structural vulnerability in high-growth and small-cap segments.
-   * **Seasonality Pressures**: Historically, August is a challenging month. The midterm-election year analogue introduces a composite drag of -0.94% across SPX, NDX, and IWM, with NDX and IWM proxies averaging -1.4% historically. 
-   * **Interest Rate Headwinds**: The US 10-Year yield rose to 4.74% (+0.07 pts), maintaining valuation pressure on rate-sensitive sectors like technology and real estate.
+### 3. Key Supporting Evidence
+* **Powerful Technical Momentum:** All three major index proxies closed the week of vW32 with significant gains, trading comfortably above their respective 20-day EMAs (SPY at 773.26 vs. EMA20 of 753.12; QQQ at 723.03 vs. EMA20 of 704.36; IWM at 301.56 vs. EMA20 of 295.72).
+* **Strong Macro Tailwinds:** A macro score of +5 is supported by falling market volatility (VIX -6.82% to 14.90), lower US 10-year Treasury yields (-0.09 pts to 4.66%), and falling crude oil prices (-8.96%), which reduce inflation and rate pressures.
+* **Risk-On Sector Rotation:** Cyclical sectors led the market higher, with Technology (XLK) surging +7.20%, Materials (XLB) up +4.82%, and Consumer Discretionary (XLY) up +3.25%, demonstrating robust institutional risk appetite.
 
-4. **Key Contradictions**:
-   * **Improving Liquidity and Volatility Metrics**: The US Dollar Index fell -1.78% to 99.71 (a major macro tailwind), while the VIX plummeted -13.94% to 15.99, demonstrating robust risk appetite underneath the surface.
-   * **Strong Cyclical Rotation**: Consumer Discretionary (XLY, +6.11%) and Financials (XLF, +1.12%) showed clear cyclical leadership, indicating that money is rotating within the market rather than exiting to cash.
+### 4. Key Contradictions
+* **Bearish Midterm Seasonality:** Historical Almanac data shows August of a U.S. midterm election year is traditionally a weak period, with a composite seasonal score of -0.94% and an average midterm August decline of -1.07% across major indices.
+* **Q2 Earnings Volatility:** The ongoing Q2 2026 earnings season introduces single-stock dispersion and event-driven risk that could trigger sudden, localized index volatility.
 
-5. **Invalidation Conditions**:
-   * **Bullish Invalidation**: A decisive close by QQQ back above its EMA20 (696.49) alongside a cooling of the US 10Y yield below 4.60% would shift the regime to Bullish.
-   * **Bearish Invalidation**: A breakdown of SPY below its EMA20 (743.03) paired with a VIX spike back above 18.00 would align all three major indexes downward, shifting the regime to Bearish.
+### 5. Invalidation Conditions
+* A sharp technical reversal where the major index proxies break and close below their respective 20-day EMAs (SPY < 753, QQQ < 704, IWM < 295).
+* A rapid spike in the VIX back above 17 or a sudden yield surge in the US 10-year Treasury note.
+* Defensive sectors (XLU, XLRE) outperforming cyclical sectors on high volume, signaling a shift to defensive positioning.
 
-6. **Predicted % move - SPX (S&P 500)**: [-1.0% to +0.5%]
-   **Predicted % move - NDX (Nasdaq 100)**: [-1.8% to +0.2%]
-   **Predicted % move - IWM (Russell 2000)**: [-1.5% to +0.5%]
+### 6. Predicted Weekly Range
+* Predicted % move - SPX (S&P 500): [+0.50% to +1.50%]
+* Predicted % move - NDX (Nasdaq 100): [+0.75% to +2.00%]
+* Predicted % move - IWM (Russell 2000): [+0.40% to +1.80%]
 
-7. **Plain-English brief**: 
-The stock market is currently in a tug-of-war; major technology and small-company stocks are showing technical weakness, and August has historically been a rough month for investors. However, a falling U.S. dollar, lower market volatility, and strength in consumer spending stocks are keeping the broader market from collapsing. Expect a choppy, sideways week as the market digests upcoming employment data and company earnings.
+### 7. Plain-English Brief
+Even though history suggests August is usually a tough and sluggish month for stocks, the current market is showing exceptional strength. Falling bond yields, dropping volatility, and a powerful shift by investors into growth sectors like technology have pushed the major indices to robust new highs. Until price momentum or interest rates reverse, the path of least resistance remains upward.
 
-8. **Disclaimer**: This market intelligence synthesis is for informational purposes only and does not constitute investment advice or a recommendation to buy or sell any security.
+### 8. Disclaimer
+This market regime recommendation is for informational and educational purposes only. It does not constitute investment, financial, or trading advice. Please consult with a licensed professional before making any financial decisions.
