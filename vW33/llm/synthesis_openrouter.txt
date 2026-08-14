@@ -1,0 +1,10 @@
+1. Weekly Regime: Neutral  
+2. Confidence Score: Medium – almanac confidence is medium, technicals are broadly bullish, and macro backdrop is neutral.  
+3. Key Supporting Evidence: Historical almanac shows August in a midterm year averages -1.07% (bearish) for SPX, NDX and IWM; Oil price strength (+5.4%) raises inflation concerns, a headwind for equities; Majority of technical indicators (SPY, QQQ, IWM and sector ETFs) are above their 20‑day EMA, indicating bullish momentum.  
+4. Key Contradictions: Technicals are largely bullish while the almanac and calendar signal bearish seasonality; Macro environment is neutral/mixed yet oil‑driven inflation risk points to downside.  
+5. Invalidation Conditions: A sustained break above key resistance (e.g., SPX > 780) with strong volume, a sharp decline in oil prices, lower‑than‑expected CPI showing cooling inflation, or a dovish Fed statement that reduces inflation pressure would invalidate the current outlook and shift the view to bullish.  
+6. Predicted % move - SPX (S&P 500): [+0.5% to +1.5%] - bullish  
+   Predicted % move - NDX (Nasdaq 100): [+0.5% to +1.5%] - bullish  
+   Predicted % move - IWM (Russell 2000): [+0.5% to +1.0%] - bullish  
+7. Plain-English brief: The market this week looks mixed; while historic August patterns in a midterm year point to a slight decline, most technical indicators are showing strength and the macro backdrop is neutral. Expect a modest move, possibly a small gain or a slight dip, but the direction is uncertain.  
+8. Disclaimer: This analysis is for informational purposes only and does not constitute financial advice.

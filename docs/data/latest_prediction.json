@@ -1,21 +1,21 @@
 {
-  "week": "vW32",
-  "generated_at": "2026-08-08T07:05:52+08:00",
+  "week": "vW33",
+  "generated_at": "2026-08-15T06:49:50+08:00",
   "pipeline_status": "Completed with 2/3 AI providers",
-  "regime": "Uncertain",
-  "confidence": "Medium",
+  "regime": "Neutral",
+  "confidence": "Low",
   "predictions": {
     "SPX": {
       "direction": "Bullish / Up",
-      "range": "[+0.50% to +1.50%]"
+      "range": "[-0.5% to +1.0%]"
     },
     "NDX": {
       "direction": "Bullish / Up",
-      "range": "[+0.75% to +2.00%]"
+      "range": "[-0.7% to +1.2%]"
     },
     "IWM": {
       "direction": "Bullish / Up",
-      "range": "[+0.40% to +1.80%]"
+      "range": "[-1.0% to +1.5%]"
     }
   },
   "models": {
@@ -43,13 +43,13 @@
   },
   "summaries": {
     "r3": "Required R3 scope: seasonal patterns, historical analogues, and calendar-based signals Almanac verdict: Bearish",
-    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: +5",
-    "r5": "R5 produced 15 CSV file(s) with 3528 data row(s). Technical bias mix: Unknown: 3514, Bullish: 10, Neutral bearish: 2, Neutral bullish: 1, Bearish: 1.",
-    "r8": "The overall AI view is Uncertain with Medium confidence. The strongest common argument is that: - Most models leaned toward a Uncertain weekly regime. - SPX direction consensus was closest to Bullish / Up. - NDX direction consensus was closest to Bullish / Up. The biggest uncertainty is: - 10‑year Treasury yield spikes above 5% or US dollar rallies sharply, reversing the low‑yield environment.<br>VIX jumps above 20 or credit spreads widen dramatically, signaling risk‑off sentiment.<br>New negative macro data (e.g.…"
+    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: -1",
+    "r5": "R5 produced 15 CSV file(s) with 3526 data row(s). Technical bias mix: Unknown: 3512, Bullish: 12, Neutral bullish: 1, Bearish: 1.",
+    "r8": "The overall AI view is Neutral with Low confidence. The strongest common argument is that: - Most models leaned toward a Neutral weekly regime. - SPX direction consensus was closest to Bullish / Up. - NDX direction consensus was closest to Bullish / Up. The biggest uncertainty is: - A sustained break above key resistance (e.g., SPX > 780) with strong volume, a sharp decline in oil prices, lower‑than‑expected CPI showing cooling inflation, or a dovish Fed statement that reduces inflation pressure would invalidate t…"
   },
   "evidence": {
-    "r3_file": "vW32/agents/almanac/vW32_almanac.md",
-    "r4_file": "vW32/agents/macro_agent_output_W32.md",
+    "r3_file": "vW33/agents/almanac/vW33_almanac.md",
+    "r4_file": "vW33/agents/macro_agent_output_W33.md",
     "r5_files": [
       "IWM.csv",
       "QQQ.csv",
@@ -65,10 +65,10 @@
       "XLU.csv",
       "XLV.csv",
       "XLY.csv",
-      "technical_agent_output_W32.csv"
+      "technical_agent_output_W33.csv"
     ],
-    "llm_comparison": "vW32/llm/llm_comparison.md",
-    "api_call_log": "vW32/llm/api_call_log.md"
+    "llm_comparison": "vW33/llm/llm_comparison.md",
+    "api_call_log": "vW33/llm/api_call_log.md"
   },
-  "source_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/tree/main/vW32"
+  "source_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/tree/main/vW33"
 }
