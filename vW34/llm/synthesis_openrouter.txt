@@ -1,0 +1,19 @@
+1. **Weekly Regime**: Bearish  
+2. **Confidence Score**: Medium - Seasonal bearish signals align with macro risk aversion, but technicals show mixed sector strength.  
+3. **Key Supporting Evidence**:  
+   - Almanac midterm-year analogue: Composite -0.91% signal across SPX, NDX proxy, and IWM proxy.  
+   - Macro: Defensive sector leadership (XLV, XLE, XLB) and rising VIX (-1 score).  
+   - Calendar event: Monthly options expiration (bullish bias) may induce volatility.  
+4. **Key Contradictions**:  
+   - Technicals: SPY, IWM, and select sectors (XLV, XLE) show bullish momentum above EMA20.  
+   - Weak dollar (macro tailwind) offsets some bearish pressure.  
+5. **Invalidation Conditions**:  
+   - SPX closing above 780 or VIX surging above 18.  
+   - Unexpected CPI/NFP data contradicting stagflation risks.  
+6. **Predicted % Moves**:  
+   - SPX: -1.5% to -3.5% (bearish range).  
+   - NDX: -0.5% to -2.5% (bearish range).  
+   - IWM: -1% to -3% (bearish range).  
+7. **Plain-English Brief**:  
+   "Historical trends and risk-off macro signs suggest weak performance this week, but individual sectors like healthcare and energy may trend upward due to ETF flows. Expect volatility from options expirations."  
+8. **Disclaimer**: This synthesis is for informational purposes only and does not constitute financial advice. Always consult a licensed advisor before making investment decisions.

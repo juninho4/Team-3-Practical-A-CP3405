@@ -1,0 +1,12 @@
+Ticker,Sector,Last Close,5D Return (%),EMA20 Condition
+XLV,Health Care,174.62,4.33,Above EMA20
+XLE,Energy,63.64,2.79,Above EMA20
+XLB,Materials,53.54,1.9,Above EMA20
+XLP,Consumer Staples,85.99,-0.12,Above EMA20
+XLY,Consumer Discretionary,118.02,-0.15,Above EMA20
+XLRE,Real Estate,45.08,-0.42,Above EMA20
+XLF,Financials,57.48,-1.17,Above EMA20
+XLC,Communication Services,111.4,-1.37,Above EMA20
+XLI,Industrials,180.25,-3.36,Below EMA20
+XLU,Utilities,42.77,-3.48,Below EMA20
+XLK,Technology,183.31,-3.53,Below EMA20
