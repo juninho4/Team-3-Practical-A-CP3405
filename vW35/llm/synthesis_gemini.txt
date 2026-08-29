@@ -1,0 +1,28 @@
+1. **Weekly Regime**: Neutral
+
+2. **Confidence Score**: Low
+   * Justification: There is a direct, active conflict between structural large-cap bullish momentum (SPY and QQQ remaining above their EMA20s with risk-on sector rotation) and the historically bearish seasonal backdrop of late August during midterm election years. 
+
+3. **Key Supporting Evidence**:
+   * **Resilient Large-Cap Technicals**: Both SPY (769.35 vs. EMA20 of 765.21) and QQQ (716.43 vs. EMA20 of 714.16) closed the week above their short-, medium-, and long-term moving averages, keeping the structural uptrend intact.
+   * **Cyclical Sector Leadership**: Communication Services (XLC, +1.43%) and Technology (XLK, +1.30%) led sector performance, while defensive sectors like Healthcare and Consumer Staples underperformed, indicating a risk-on posture.
+   * **Easing Inflation Pressures**: WTI Crude Oil dropped -4.16% on the week to $83.44, reducing near-term input cost and inflation anxieties.
+
+4. **Key Contradictions**:
+   * **Bearish Seasonal Headwinds**: Historical midterm election year statistics for August point to a composite seasonal decline of -0.88% across major indices, with the Russell 2000 (IWM proxy) historically averaging a -1.4% drop.
+   * **Small-Cap and Currency Headwinds**: The Russell 2000 (IWM) closed at 295.75, falling below its EMA20 (298.87) to establish a bearish divergence, while a stronger US Dollar Index (+0.89% to 99.68) acts as a global liquidity drag.
+
+5. **Invalidation Conditions**:
+   * A daily close for SPY below its EMA20 (765.21) or QQQ below its EMA20 (714.16) would invalidate the neutral-to-bullish momentum thesis and align price action with seasonal bearishness.
+   * A reversal in volatility where the VIX spikes and holds above 15.50.
+   * The US Dollar Index (DXY) breaking and holding above the 100.00 level.
+
+6. **Predicted % move - SPX (S&P 500)**: [-0.5% to +0.8%]
+   **Predicted % move - NDX (Nasdaq 100)**: [-0.8% to +1.2%]
+   **Predicted % move - IWM (Russell 2000)**: [-1.5% to +0.5%]
+
+7. **Plain-English brief**: 
+   The market is caught in a tug-of-war between healthy short-term momentum and historical seasonal patterns. While large technology and communication stocks are showing strength and keeping the main indexes in upward trends, smaller companies are beginning to lag behind. This mixed picture, combined with a stronger US dollar and a historically weak late-August period, suggests investors should expect a choppy, consolidative week.
+
+8. **Disclaimer**: 
+   This analysis is for informational purposes only and does not constitute financial, investment, or trading advice. All market assessments are based on historical and technical data and should be used at your own risk.
