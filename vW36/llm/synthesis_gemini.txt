@@ -1,0 +1,30 @@
+### 1. Weekly Regime
+Bearish
+
+### 2. Confidence Score
+High — This is justified by a strong alignment across all three vectors: a highly bearish historical seasonal setup for September in midterm years (composite score of -1.01%), an worsening macro environment marked by rising yields and surging energy costs, and a broad neutral-bearish technical posture with major indices and sectors trading below their 20-day EMAs.
+
+### 3. Key Supporting Evidence
+* **Severe Seasonal Headwinds:** September is historically the worst-performing month of the year for major indices, particularly during midterm election years where the SPX averages -0.8% and both NDX and IWM analogues average -1.6%. Furthermore, the day after Labor Day has historically seen Dow declines in 13 of the last 16 years.
+* **Inflationary and Yield Pressures:** US 10-Year yields rose to 4.78% (+0.06 pts), while WTI Crude Oil surged +9.38% to $91.22. This toxic combination heightens inflation expectations and directly pressures rate-sensitive assets.
+* **Technical Weakness:** All major indices (SPY, QQQ, IWM) and every single major equity sector have deteriorated into "Neutral bearish" technical biases, currently situated below their respective 20-day EMAs.
+
+### 4. Key Contradictions
+* **Currency Tailwind:** The US Dollar Index (DXY) weakened by -0.54% to 99.16, offering a minor foreign exchange buffer for multinational corporate earnings. 
+* **End-of-Month Seasonality:** The final trading day of August (8/31) carries a historical bullish bias across index proxies (averaging +0.07%), which could delay the onset of broader September selling pressure.
+
+### 5. Invalidation Conditions
+* A sharp reversal in the US 10-year yield dropping back below 4.70%, combined with WTI crude oil falling back below $85/bbl.
+* Major index ETFs (SPY, QQQ, and IWM) staging a high-volume rally to reclaim and close decisively above their 20-day EMAs.
+* A sudden drop in the VIX below 13.00 alongside strong defensive-to-cyclical sector rotation, signaling returning risk-on appetite.
+
+### 6. Predicted % Move
+* Predicted % move - SPX (S&P 500): [-0.5% to -1.5%] - Bearish
+* Predicted % move - NDX (Nasdaq 100): [-1.0% to -2.0%] - Bearish
+* Predicted % move - IWM (Russell 2000): [-1.0% to -2.5%] - Bearish
+
+### 7. Plain-English Brief
+Historically, September is the most challenging month for the stock market, especially during election years as portfolio managers return from summer breaks and clean out underperforming positions. This historical trend is compounded right now by rising oil prices and high interest rates, which are putting pressure on corporate profits and borrowing costs. With the charts showing major market averages losing momentum, investors should prepare for a weak week ahead.
+
+### 8. Disclaimer
+This market intelligence synthesis is for informational and educational purposes only and does not constitute financial, investment, or trading advice. Past performance is not indicative of future results. All trading decisions are made at the sole risk of the reader.

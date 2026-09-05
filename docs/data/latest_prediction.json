@@ -1,21 +1,21 @@
 {
-  "week": "vW35",
-  "generated_at": "2026-08-29T11:48:56+08:00",
-  "pipeline_status": "Completed with 2/3 AI providers",
-  "regime": "Neutral",
-  "confidence": "Low",
+  "week": "vW36",
+  "generated_at": "2026-09-05T08:16:44+08:00",
+  "pipeline_status": "Completed with 1/3 AI providers",
+  "regime": "Uncertain",
+  "confidence": "Medium",
   "predictions": {
     "SPX": {
-      "direction": "Bullish / Up",
-      "range": "[-0.5% to +0.8%]"
+      "direction": "Bearish / Down",
+      "range": "[-0.5% to -1.5%]"
     },
     "NDX": {
-      "direction": "Bullish / Up",
-      "range": "[-0.8% to +1.2%]"
+      "direction": "Bearish / Down",
+      "range": "[-1.0% to -2.0%]"
     },
     "IWM": {
       "direction": "Bearish / Down",
-      "range": "[-1.5% to +0.5%]"
+      "range": "[-1.0% to -2.5%]"
     }
   },
   "models": {
@@ -36,20 +36,20 @@
     "openrouter": {
       "name": "OpenRouter",
       "model": "openrouter/free",
-      "status": "success",
-      "error_code": "",
-      "detail": ""
+      "status": "failed",
+      "error_code": "EMPTY_RESPONSE",
+      "detail": "API response did not contain answer text"
     }
   },
   "summaries": {
     "r3": "Required R3 scope: seasonal patterns, historical analogues, and calendar-based signals Almanac verdict: Bearish",
-    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: +1",
-    "r5": "R5 produced 15 CSV file(s) with 3528 data row(s). Technical bias mix: Unknown: 3514, Bullish: 9, Neutral bearish: 4, Bearish: 1.",
-    "r8": "The overall AI view is Neutral with Low confidence. The strongest common argument is that: - Most models leaned toward a Neutral weekly regime. - SPX direction consensus was closest to Bullish / Up. - NDX direction consensus was closest to Bullish / Up. The biggest uncertainty is: - SPY/QQQ closing below their respective 20-day EMAs would shift technical bias bearish.<br>A sustained dollar rally (DXY > 101) or VIX spike above 20 would undermine the risk-on macro read.<br>IWM breaking below its 50-day EMA (~295.6)…"
+    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: -2",
+    "r5": "R5 produced 15 CSV file(s) with 3542 data row(s). Technical bias mix: Unknown: 3528, Neutral bearish: 14.",
+    "r8": "The overall AI view is Uncertain with Medium confidence. The strongest common argument is that: - Most models leaned toward a Uncertain weekly regime. - SPX direction consensus was closest to Bearish / Down. - NDX direction consensus was closest to Bearish / Down. The biggest uncertainty is: - Not clear from available model outputs The most bullish model is: - Gemini The most bearish model is: - Gemini The most cautious model is: - Gemini This output will be passed to R7 Human Score Analyst for final human judgeme…"
   },
   "evidence": {
-    "r3_file": "vW35/agents/almanac/vW35_almanac.md",
-    "r4_file": "vW35/agents/macro_agent_output_W35.md",
+    "r3_file": "vW36/agents/almanac/vW36_almanac.md",
+    "r4_file": "vW36/agents/macro_agent_output_W36.md",
     "r5_files": [
       "IWM.csv",
       "QQQ.csv",
@@ -65,10 +65,10 @@
       "XLU.csv",
       "XLV.csv",
       "XLY.csv",
-      "technical_agent_output_W35.csv"
+      "technical_agent_output_W36.csv"
     ],
-    "llm_comparison": "vW35/llm/llm_comparison.md",
-    "api_call_log": "vW35/llm/api_call_log.md"
+    "llm_comparison": "vW36/llm/llm_comparison.md",
+    "api_call_log": "vW36/llm/api_call_log.md"
   },
-  "source_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/tree/main/vW35"
+  "source_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/tree/main/vW36"
 }
