@@ -1,0 +1,26 @@
+1. Weekly Regime: **Bearish**
+
+2. Confidence Score: **High**
+   *Justification:* The historical September seasonality is famously poor, particularly in midterm election years. This seasonal headwind is strongly reinforced by deteriorating macro conditions (spiking yields, rising oil, and elevated volatility) and confirmed by technicals, as all major indices broke below their respective 20-day EMAs.
+
+3. Key Supporting Evidence:
+   * **Stellar Historical Bearish Alignment:** September is historically the worst month of the year for equities. In U.S. midterm-election years, the historical averages for September are deeply negative, yielding a composite seasonal average of -1.33% across SPX (-0.8%), NDX (-1.6%), and IWM (-1.6%).
+   * **Intensifying Macro Headwinds:** The US 10-Year yield rose sharply (+0.21 pts) to 4.97%, putting heavy pressure on rate-sensitive assets. Concurrently, WTI Crude surged +9.52% to $99.99/bbl (adding to inflation fears), while the VIX spiked +9.02%.
+   * **Technical Breakdown:** Major index trackers (SPY, QQQ, and IWM) all finished the week below their 20-day EMAs. Notably, SPY and QQQ have also slipped below their 50-day EMAs, transitioning key technical charts to a neutral-bearish stance.
+
+4. Key Contradictions:
+   * **Defensive vs. Cyclical Rotation:** Cyclical sectors showed minor relative strength compared to defensives (spread of +0.88 pts), primarily driven by the Technology sector (XLK) managing a slight positive 5-session return (+0.88%).
+
+5. Invalidation Conditions:
+   * A swift reversal in the US 10-Year Treasury yield back below 4.75% combined with crude oil falling back below $95/barrel.
+   * Key indices reclaiming and holding daily closes above their 20-day EMAs (specifically SPY > 765.1 and QQQ > 714.2).
+
+6. Predicted % move - SPX (S&P 500): [-0.5% to -1.2%]
+   Predicted % move - NDX (Nasdaq 100): [-1.0% to -2.0%]
+   Predicted % move - IWM (Russell 2000): [-1.0% to -2.2%]
+
+7. Plain-English brief:
+   The stock market is heading into its historically weakest month of the year with notable caution as portfolio managers return from the Labor Day holiday to restructure their holdings. Higher borrowing costs (with bond yields nearing 5%) and rising oil prices nearing $100 are squeezing corporate outlooks, dragging all major index averages below their short-term trendlines. Investors should prepare for a volatile, downward-leaning week as sellers remain in control of the immediate market trend.
+
+8. Disclaimer:
+   *This analysis is for informational and educational purposes only. It does not constitute financial, investment, or trading advice.*
