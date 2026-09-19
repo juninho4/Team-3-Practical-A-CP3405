@@ -1,13 +1,13 @@
 {
-  "week": "vW37",
-  "generated_at": "2026-09-12T08:27:35+08:00",
-  "pipeline_status": "Completed with 1/3 AI providers",
+  "week": "vW38",
+  "generated_at": "2026-09-19T08:29:35+08:00",
+  "pipeline_status": "Completed with 2/3 AI providers",
   "regime": "Bearish",
-  "confidence": "High",
+  "confidence": "Medium",
   "predictions": {
     "SPX": {
       "direction": "Bearish / Down",
-      "range": "[-0.5% to -1.2%]"
+      "range": "[-0.5% to -1.5%]"
     },
     "NDX": {
       "direction": "Bearish / Down",
@@ -15,7 +15,7 @@
     },
     "IWM": {
       "direction": "Bearish / Down",
-      "range": "[-1.0% to -2.2%]"
+      "range": "[-1.0% to -2.0%]"
     }
   },
   "models": {
@@ -36,20 +36,20 @@
     "openrouter": {
       "name": "OpenRouter",
       "model": "openrouter/free",
-      "status": "failed",
-      "error_code": "EMPTY_RESPONSE",
-      "detail": "API response did not contain answer text"
+      "status": "success",
+      "error_code": "",
+      "detail": ""
     }
   },
   "summaries": {
     "r3": "Required R3 scope: seasonal patterns, historical analogues, and calendar-based signals Almanac verdict: Bearish",
-    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: -3",
+    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: +1",
     "r5": "R5 produced 15 CSV file(s) with 3528 data row(s). Technical bias mix: Unknown: 3514, Neutral bearish: 14.",
-    "r8": "The overall AI view is Bearish with High confidence. The strongest common argument is that: - Most models leaned toward a Bearish weekly regime. - SPX direction consensus was closest to Bearish / Down. - NDX direction consensus was closest to Bearish / Down. The biggest uncertainty is: - A swift reversal in the US 10-Year Treasury yield back below 4.75% combined with crude oil falling back below $95/barrel.<br>Key indices reclaiming and holding daily closes above their 20-day EMAs (specifically SPY > 765.1 and QQQ…"
+    "r8": "The overall AI view is Bearish with Medium confidence. The strongest common argument is that: - Most models leaned toward a Bearish weekly regime. - SPX direction consensus was closest to Bearish / Down. - NDX direction consensus was closest to Bearish / Down. The biggest uncertainty is: - A highly accommodative or \"dovish\" Federal Reserve policy statement and Summary of Economic Projections (SEP) on September 16 that sparks a broad risk-on rally.<br>A decisive technical breakout where SPY, QQQ, and IWM reclaim an…"
   },
   "evidence": {
-    "r3_file": "vW37/agents/almanac/vW37_almanac.md",
-    "r4_file": "vW37/agents/macro_agent_output_W37.md",
+    "r3_file": "vW38/agents/almanac/vW38_almanac.md",
+    "r4_file": "vW38/agents/macro_agent_output_W38.md",
     "r5_files": [
       "IWM.csv",
       "QQQ.csv",
@@ -65,10 +65,10 @@
       "XLU.csv",
       "XLV.csv",
       "XLY.csv",
-      "technical_agent_output_W37.csv"
+      "technical_agent_output_W38.csv"
     ],
-    "llm_comparison": "vW37/llm/llm_comparison.md",
-    "api_call_log": "vW37/llm/api_call_log.md"
+    "llm_comparison": "vW38/llm/llm_comparison.md",
+    "api_call_log": "vW38/llm/api_call_log.md"
   },
-  "source_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/tree/main/vW37"
+  "source_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/tree/main/vW38"
 }

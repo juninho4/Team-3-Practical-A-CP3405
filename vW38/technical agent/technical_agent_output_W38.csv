@@ -1,0 +1,15 @@
+Ticker,Market,Last Close,EMA20,EMA50,EMA200,EMA20 Condition,Technical Bias,Data File,Chart File,Sprint Week
+SPY,S&P 500,,762.95,758.34,722.79,Below EMA20,Neutral bearish,data/SPY.csv,charts/SPY_EMA20_chart.png,vW38
+QQQ,Nasdaq 100 proxy,,712.59,710.67,673.25,Below EMA20,Neutral bearish,data/QQQ.csv,charts/QQQ_EMA20_chart.png,vW38
+IWM,Russell 2000,,291.14,292.56,276.77,Below EMA20,Neutral bearish,data/IWM.csv,charts/IWM_EMA20_chart.png,vW38
+XLK,Technology sector,,185.38,183.44,167.43,Below EMA20,Neutral bearish,data/XLK.csv,charts/XLK_EMA20_chart.png,vW38
+XLF,Financial sector,,57.15,56.68,54.24,Below EMA20,Neutral bearish,data/XLF.csv,charts/XLF_EMA20_chart.png,vW38
+XLV,Healthcare sector,,168.79,166.11,155.67,Below EMA20,Neutral bearish,data/XLV.csv,charts/XLV_EMA20_chart.png,vW38
+XLY,Consumer Discretionary sector,,113.95,115.22,116.41,Below EMA20,Neutral bearish,data/XLY.csv,charts/XLY_EMA20_chart.png,vW38
+XLE,Energy sector,,63.87,61.61,55.79,Below EMA20,Neutral bearish,data/XLE.csv,charts/XLE_EMA20_chart.png,vW38
+XLC,Communication Services sector,,112.3,111.72,113.12,Below EMA20,Neutral bearish,data/XLC.csv,charts/XLC_EMA20_chart.png,vW38
+XLI,Industrials sector,,173.99,176.97,171.44,Below EMA20,Neutral bearish,data/XLI.csv,charts/XLI_EMA20_chart.png,vW38
+XLP,Consumer Staples sector,,84.4,84.63,82.85,Below EMA20,Neutral bearish,data/XLP.csv,charts/XLP_EMA20_chart.png,vW38
+XLU,Utilities sector,,42.62,43.48,43.97,Below EMA20,Neutral bearish,data/XLU.csv,charts/XLU_EMA20_chart.png,vW38
+XLRE,Real Estate sector,,43.79,44.23,43.16,Below EMA20,Neutral bearish,data/XLRE.csv,charts/XLRE_EMA20_chart.png,vW38
+XLB,Materials sector,,51.64,51.76,50.05,Below EMA20,Neutral bearish,data/XLB.csv,charts/XLB_EMA20_chart.png,vW38

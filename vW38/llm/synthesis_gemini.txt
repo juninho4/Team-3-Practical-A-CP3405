@@ -1,0 +1,29 @@
+1. Weekly Regime: Bearish
+
+2. Confidence Score: Medium
+*Justification:* There is strong alignment between bearish midterm seasonal analogues (-1.16% composite score) and defensive technical positioning, with major indices and all 11 sectors trading below their short-term trendlines. However, confidence is capped at Medium due to high-impact event risk surrounding the September 15–16 FOMC meeting and mixed macroeconomic signals (collapsing volatility and weaker crude oil offsetting a stronger U.S. Dollar).
+
+3. Key Supporting Evidence:
+* **Severe Seasonal Midterm Drag:** September of a midterm election year is historically the weakest month of the cycle, yielding a -1.16% composite seasonal score and historical average declines of -0.8% for SPX and -1.6% for both NDX and IWM proxies.
+* **Broad-Based Technical Deterioration:** All three major market index tracking ETFs (SPY, QQQ, IWM) and all 11 sector ETFs are trading below their 20-day Exponential Moving Averages (EMA20), confirming a coordinated neutral-bearish technical regime.
+* **U.S. Dollar Strength:** The US Dollar Index (DXY) climbed +1.10% over the last 5 sessions to 100.21, asserting a distinct macroeconomic headwind for risk assets.
+
+4. Key Contradictions:
+* **Complacent Volatility:** The VIX compressed by -6.50% to 14.81, indicating a lack of near-term panic and a supportive environment for equity buyers if supportive catalysts emerge.
+* **Energy Cost Relief:** WTI Crude Oil fell -4.58% to $95.47, a shift that eases near-term inflation pressures and supports consumer purchasing power.
+
+5. Invalidation Conditions:
+* A highly accommodative or "dovish" Federal Reserve policy statement and Summary of Economic Projections (SEP) on September 16 that sparks a broad risk-on rally.
+* A decisive technical breakout where SPY, QQQ, and IWM reclaim and close above their respective EMA20 levels.
+* A sharp selloff in the U.S. Dollar Index (DXY) back below the 99.50 level.
+
+6. Predicted % move:
+* Predicted % move - SPX (S&P 500): [-0.5% to -1.5%]
+* Predicted % move - NDX (Nasdaq 100): [-1.0% to -2.0%]
+* Predicted % move - IWM (Russell 2000): [-1.0% to -2.0%]
+
+7. Plain-English brief:
+The stock market is entering its historically weakest stretch of the year, which is typically amplified during midterm election years. With major indexes currently trending below their short-term averages, technical momentum is favoring sellers. Investors should expect a volatile and defensive week of trading, especially as the market braces for the Federal Reserve's policy announcement on Wednesday.
+
+8. Disclaimer:
+This analysis is for informational and educational purposes only. It does not constitute financial, investment, or trading advice. Please consult a registered financial advisor before making any investment decisions.

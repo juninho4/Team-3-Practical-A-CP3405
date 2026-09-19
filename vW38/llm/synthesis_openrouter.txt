@@ -1,0 +1,18 @@
+1. Weekly Regime: Bearish
+2. Confidence Score: Medium — Seasonal (midterm September) and technical (universal below-EMA20) signals align bearishly; macro is mixed/neutral and FOMC event risk caps conviction.
+3. Key Supporting Evidence:
+   - Midterm-year September analogue shows -1.33% average across SPX/NDX/IWM (R3).
+   - All 14 tracked ETFs (majors + sectors) trade below their 20-day EMAs with “neutral bearish” bias (R5).
+   - Falling VIX (-6.5%) and lower oil (-4.6%) are positives but offset by a stronger dollar (+1.1%) and mixed sector breadth (R4).
+4. Key Contradictions:
+   - Macro verdict is neutral/mixed (low confidence) rather than outright bearish.
+   - Triple-witching week historically flat (+0.03%) and FOMC/SEP could trigger sharp two-way moves.
+5. Invalidation Conditions:
+   - SPY/QQQ/IWM reclaim their respective 20-day EMAs on a weekly close.
+   - VIX surges above 20 or dollar index (DXY) falls back below 99.
+   - FOMC statement/SEP triggers a sustained risk-on rally above recent highs.
+6. Predicted % move - SPX (S&P 500): [-1.5% to +0.5%] - slightly bearish bias  
+   Predicted % move - NDX (Nasdaq 100): [-2.0% to 0.0%] - bearish bias  
+   Predicted % move - IWM (Russell 2000): [-2.0% to 0.0%] - bearish bias
+7. Plain-English brief: History shows September of a midterm year is typically the weakest month for stocks, and right now every major index and sector is trading below its short-term trend line. The Fed meets this week, which could shake things up, but the seasonal and technical backdrop favors caution.
+8. Disclaimer: This analysis is for informational purposes only and does not constitute financial advice. Past performance is not indicative of future results. Consult a qualified advisor before making investment decisions.
