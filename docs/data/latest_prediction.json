@@ -1,21 +1,21 @@
 {
-  "week": "vW38",
-  "generated_at": "2026-09-19T08:29:35+08:00",
+  "week": "vW39",
+  "generated_at": "2026-09-26T08:46:40+08:00",
   "pipeline_status": "Completed with 2/3 AI providers",
-  "regime": "Bearish",
+  "regime": "Uncertain",
   "confidence": "Medium",
   "predictions": {
     "SPX": {
       "direction": "Bearish / Down",
-      "range": "[-0.5% to -1.5%]"
+      "range": "0.7% to -1.4%"
     },
     "NDX": {
       "direction": "Bearish / Down",
-      "range": "[-1.0% to -2.0%]"
+      "range": "1.0% to -1.8%"
     },
     "IWM": {
       "direction": "Bearish / Down",
-      "range": "[-1.0% to -2.0%]"
+      "range": "1.2% to -2.0%"
     }
   },
   "models": {
@@ -43,13 +43,13 @@
   },
   "summaries": {
     "r3": "Required R3 scope: seasonal patterns, historical analogues, and calendar-based signals Almanac verdict: Bearish",
-    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: +1",
+    "r4": "Method: Independent rule-based macro analysis completed before LLM synthesis Macro score: -1",
     "r5": "R5 produced 15 CSV file(s) with 3528 data row(s). Technical bias mix: Unknown: 3514, Neutral bearish: 14.",
-    "r8": "The overall AI view is Bearish with Medium confidence. The strongest common argument is that: - Most models leaned toward a Bearish weekly regime. - SPX direction consensus was closest to Bearish / Down. - NDX direction consensus was closest to Bearish / Down. The biggest uncertainty is: - A highly accommodative or \"dovish\" Federal Reserve policy statement and Summary of Economic Projections (SEP) on September 16 that sparks a broad risk-on rally.<br>A decisive technical breakout where SPY, QQQ, and IWM reclaim an…"
+    "r8": "The overall AI view is Uncertain with Medium confidence. The strongest common argument is that: - Most models leaned toward a Uncertain weekly regime. - SPX direction consensus was closest to Bearish / Down. - NDX direction consensus was closest to Bearish / Down. The biggest uncertainty is: - A sharp reversal in the 10‑year Treasury yield or the US dollar, a sudden rise in VIX above its recent trend, or new CPI/Fed data that materially changes inflation or rate expectations. The most bullish model is: - Gemini Th…"
   },
   "evidence": {
-    "r3_file": "vW38/agents/almanac/vW38_almanac.md",
-    "r4_file": "vW38/agents/macro_agent_output_W38.md",
+    "r3_file": "vW39/agents/almanac/vW39_almanac.md",
+    "r4_file": "vW39/agents/macro_agent_output_W39.md",
     "r5_files": [
       "IWM.csv",
       "QQQ.csv",
@@ -65,10 +65,10 @@
       "XLU.csv",
       "XLV.csv",
       "XLY.csv",
-      "technical_agent_output_W38.csv"
+      "technical_agent_output_W39.csv"
     ],
-    "llm_comparison": "vW38/llm/llm_comparison.md",
-    "api_call_log": "vW38/llm/api_call_log.md"
+    "llm_comparison": "vW39/llm/llm_comparison.md",
+    "api_call_log": "vW39/llm/api_call_log.md"
   },
-  "source_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/tree/main/vW38"
+  "source_url": "https://github.com/juninho4/Team-3-Practical-A-CP3405/tree/main/vW39"
 }

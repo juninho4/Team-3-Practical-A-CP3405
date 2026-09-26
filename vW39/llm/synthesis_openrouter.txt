@@ -1,0 +1,10 @@
+1. Weekly Regime: Bearish  
+2. Confidence Score: High – strong historical midterm September bearish bias and calendar week signal, reinforced by all major indices trading below EMA20 with neutral bearish technical bias.  
+3. Key Supporting Evidence: 1) September midterm average -1.33% across SPX, NDX, IWM; 2) Calendar week after options expiration average -1.05% bearish; 3) All major indices trade below EMA20 with neutral bearish technical bias.  
+4. Key Contradictions: 1) Macro environment neutral/mixed with higher yields and strong dollar acting as headwinds; 2) Sector rotation shows cyclical leadership (risk‑on) in technology and communication services, suggesting possible upside.  
+5. Invalidation Conditions: A sharp reversal in the 10‑year Treasury yield or the US dollar, a sudden rise in VIX above its recent trend, or new CPI/Fed data that materially changes inflation or rate expectations.  
+6. Predicted % move - SPX (S&P 500): [-1.0% to -2.0%] - bearish  
+   Predicted % move - NDX (Nasdaq 100): [-1.5% to -3.0%] - bearish  
+   Predicted % move - IWM (Russell 2000): [-1.0% to -2.0%] - bearish  
+7. Plain-English brief: September historically underperforms in midterm years, and this week follows the typical post‑options‑expiration bearish pattern. All major indices are trading below their 20‑day moving averages with a neutral‑bearish technical bias, suggesting further downside, though mixed macro factors keep the outlook uncertain.  
+8. Disclaimer: This is not financial advice.
