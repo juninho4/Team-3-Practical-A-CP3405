@@ -1,0 +1,15 @@
+1. Weekly Regime: [Neutral]
+2. Confidence Score: [Medium] – The almanac signals a bullish seasonal bias, while macro and technical indicators show slight bearish pressure, resulting in mixed evidence.
+3. Key Supporting Evidence:
+   - Almanac composite seasonal score for vW40 is +0.88% (bullish) with medium confidence.
+   - Last trading‑day seasonal tendency (Sept 30) is bullish (medium confidence).
+   - October midterm analogue averages +3.13% across SPX, NDX and IWM proxies (bullish).
+4. Key Contradictions:
+   - Macro assessment is slightly bearish (score –3) driven by higher yields, a stronger dollar and credit weakness.
+   - Technical analysis shows all major indices below their 20‑day EMA with a neutral‑bearish bias.
+5. Invalidation Conditions: A sharp reversal in the 10‑year yield or US Dollar Index, a decisive break above the 20‑day EMA on elevated volume, or a stronger‑than‑expected September sell‑off would shift the balance toward bearish; conversely, a dovish Fed signal or easing of credit spreads would lift the bullish case.
+6. Predicted % move - SPX (S&P 500): [-0.3% to +0.3%] - sideways  
+   Predicted % move - NDX (Nasdaq 100): [-0.4% to +0.2%] - slightly bearish  
+   Predicted % move - IWM (Russell 2000): [-0.5% to +0.1%] - slightly bearish
+7. Plain-English brief: The seasonal patterns suggest a modest uplift for the week, but higher interest rates, a strong dollar and weak technical momentum are pulling the market in the opposite direction. As a result, prices are likely to trade in a tight range with little clear bias.
+8. Disclaimer: This analysis is for informational purposes only and does not constitute financial advice or a recommendation to buy or sell any securities.
